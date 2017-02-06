@@ -1,0 +1,711 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss xmlns:excerpt="http://wordpress.org/export/1.2/excerpt/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:wfw="http://wellformedweb.org/CommentAPI/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:wp="http://wordpress.org/export/1.2/">
+  <channel>
+    <title>Key</title>
+    <link>https://keyauth.com</link>
+    <pubDate>Mon, 10 Aug 2015 15:16:56 +0000</pubDate>
+    <description />
+    <language>en-US</language>
+    <wp:wxr_version>1.2</wp:wxr_version>
+    <wp:author>
+      <wp:author_id>88334602</wp:author_id>
+      <wp:author_login>peter@rack5.co</wp:author_login>
+      <wp:author_email>peter@rack5.co</wp:author_email>
+      <wp:author_display_name><![CDATA[Peter Marcano]]></wp:author_display_name>
+      <wp:author_first_name><![CDATA[Peter]]></wp:author_first_name>
+      <wp:author_last_name><![CDATA[Marcano]]></wp:author_last_name>
+    </wp:author>
+    <wp:category>
+      <wp:cat_name><![CDATA[Business - null]]></wp:cat_name>
+      <wp:category_nicename>Business-null</wp:category_nicename>
+      <wp:category_parent />
+    </wp:category>
+    <item>
+      <link>/key-faq/</link>
+      <title>FAQ</title>
+      <pubDate>Mon, 12 Oct 2015 20:53:43 +0000</pubDate>
+      <content:encoded><![CDATA[<h1 class="text-align-center">Frequently Asked Questions</h1><p><strong>How do my phone and computer see each other?</strong></p><p>Using Bluetooth 4.0 Low Energy (LE), Key can sense the distance between your phone and your computer to give you access when you need it, and peace of mind when you don’t - all without draining your battery.</p><p><strong>When are you releasing the Android app?</strong></p><p>Android devices are very fragmented, and few of them support Bluetooth LE at this time. As a result, we'd be spending lots of time and effort making an app very few could use. Not to worry, it is on the roadmap and we have every intention on making one in the future.</p><p><strong>My Computer doesn't support Bluetooth LE, do I have to buy a new computer?</strong></p><p>Not at all! USB to Bluetooth LE dongles are rather inexpensive, and we have been using <a href="http://www.amazon.com/gp/product/B007GFX0PY/ref=oh_aui_detailpage_o02_s00?ie=UTF8&amp;psc=1">IOGEAR's Bluetooth 4.0 USB Micro Adapter</a>&nbsp;since the beginning. As much as we all would like an excuse for a new computer, you can make do without!</p><p><strong>What if I lose my phone? Am I locked out and insecure?</strong></p><p>If you lose your phone, log into your computer like you normally would (with your password... gross!) and using the Key menu you can unpair your phone. We recommend anyone who loses a phone <a href="https://support.apple.com/kb/PH2701?locale=en_US">remote wipe</a>&nbsp;the device to prevent data theft.</p>]]></content:encoded>
+      <wp:post_name>key-faq</wp:post_name>
+      <wp:post_type>page</wp:post_type>
+      <wp:post_id>0</wp:post_id>
+      <wp:status>publish</wp:status>
+    </item>
+    <item>
+      <link>/new-page-2/</link>
+      <title>Partners</title>
+      <pubDate>Thu, 10 Sep 2015 14:21:34 +0000</pubDate>
+      <content:encoded><![CDATA[<h1 class="text-align-center">Partners</h1>
+  
+      <a href="http://www.ucc.ie/en/ignite/"  target="_blank" ><img src="https://static1.squarespace.com/static/55c8c068e4b09cb562cdc655/t/55cc6f8de4b0c5b27586ae95/1439461310606/?format=original" alt=""/></a>
+  
+
+<blockquote>The IGNITE Graduate Business Innovation Programme helps graduates to turn innovative ideas into successful technology based businesses. Based at UCC, the programme is open to recent graduates of any third level institution in any discipline.</blockquote>]]></content:encoded>
+      <wp:post_name>new-page-2</wp:post_name>
+      <wp:post_type>page</wp:post_type>
+      <wp:post_id>1</wp:post_id>
+      <wp:status>publish</wp:status>
+    </item>
+    <item>
+      <link>/company/</link>
+      <title>Company</title>
+      <pubDate>Tue, 19 Jul 2016 19:37:47 +0000</pubDate>
+      <content:encoded><![CDATA[&nbsp;
+  
+      <img src="https://static1.squarespace.com/static/55c8c068e4b09cb562cdc655/t/56423224e4b0d1606740fde8/1447178794945/?format=original" alt=""/>
+  
+
+&nbsp;&nbsp;<p>We make software and help small organizations get stuff done.&nbsp;We work remotely and are currently typing away from the United States and Europe.</p><p>We believe software should make our lives easier. Software should give us more time in the day to focus on the things that matter. This is why we get furious when apps get in our way, are too complicated, and cause more problems than they solve.</p><p>We're making <a href="/key-full">Key</a>&nbsp;to remove the need to remember, type, and manage our passwords. We're chugging along to add features, keep it simple,&nbsp;and work everywhere. You can follow us on our <a href="/blog">blog</a> for more tips and progress.</p><p>Occasionally,&nbsp;we help other small businesses with their Software Development and IT needs. We thoroughly enjoy helping them simplify their products, put them online, automate work, and get things done.</p><p> </p>&nbsp;]]></content:encoded>
+      <wp:post_name>company</wp:post_name>
+      <wp:post_type>page</wp:post_type>
+      <wp:post_id>2</wp:post_id>
+      <wp:status>publish</wp:status>
+    </item>
+    <item>
+      <link>/key-video/</link>
+      <title>Video</title>
+      <pubDate>Sat, 10 Oct 2015 20:21:50 +0000</pubDate>
+      <content:encoded><![CDATA[<h1 class="text-align-center">Watch the benefits</h1>
+ 
+   <iframe src="//www.youtube.com/embed/mCaYiPM6ZK8?wmode=opaque&amp;enablejsapi=1" height="480" width="854" scrolling="no" frameborder="0" allowfullscreen="">
+</iframe>]]></content:encoded>
+      <wp:post_name>key-video</wp:post_name>
+      <wp:post_type>page</wp:post_type>
+      <wp:post_id>3</wp:post_id>
+      <wp:status>publish</wp:status>
+    </item>
+    <item>
+      <link>/key-features/</link>
+      <title>Features</title>
+      <pubDate>Mon, 12 Oct 2015 21:05:16 +0000</pubDate>
+      <content:encoded><![CDATA[<h1 class="text-align-center">Features</h1><center><i class="fa fa-lock fa-5x"></i></center><p><strong>Proximity Based Locking</strong></p><p>Key locks and unlocks your computer based on the distance between your phone and your computer. When you walk away, your computer locks up. When you come back, your computer is ready for you to use.</p><center><i class="fa fa-shield fa-5x"></i></center><p><strong>Secured Every Step of the Way</strong></p><p>We make sure your data is secured in storage and in transit using a variety of encryption methods, including AES256 and SSL.</p><center><i class="fa fa-asterisk fa-5x"></i></center><p><strong>Works On The Web</strong></p><p>Key remembers all your usernames and passwords so you don’t have to. Regardless of the password length or complexity, all you need to sign in is your phone.</p><p><em>COMING SOON</em></p><center><i class="fa fa-refresh fa-5x"></i></center><p><strong>Synced and Backed Up</strong></p><p>Your secured data is automatically synced and backed up, so whether you are on your phone, laptop, or tablet, you'll never have to worry about getting locked out again.</p><p><em>COMING SOON</em></p>]]></content:encoded>
+      <wp:post_name>key-features</wp:post_name>
+      <wp:post_type>page</wp:post_type>
+      <wp:post_id>4</wp:post_id>
+      <wp:status>publish</wp:status>
+    </item>
+    <item>
+      <title>The Password Problem</title>
+      <link>/blog/the-password-problem</link>
+      <content:encoded><![CDATA[<img src="http://blog.bendbroadband.com/business/files/2013/09/password1.jpg" title="" alt="image"/><p id="yui_3_17_2_1_1439397890887_18859">
+Passwords seem like they have been around from the dawn of computing. Its agreed upon as the most convenient way to identify yourself to a computer. But as technology becomes more advanced, so does the tools hackers use.</p><p id="yui_3_17_2_1_1439397890887_18862">When I first started college just about 5 years ago, I was given my student username and a password prompt to create a “secure password” that was 7 characters with at least one capital letter, number, or special character. When I got a job working at my school’s IT department in the following months, we had to issue a new password policy. The new policy increased the character amount to 8 and must contain a special character, number, and capital letter. I find it amazing how quickly and frequently the definition “secure password” has changed.</p><p id="yui_3_17_2_1_1439397890887_18869">As I sign up for new services today I am still encouraged to use “strong passwords”, but now are “made up of at least 12 characters, don’t use dictionary words, contain special characters, numbers, capital, and lowercase letters…” As hackers get more advanced, our passwords become nearly impossible to remember.</p><h3 id="yui_3_17_2_1_1439397890887_18874">7 digit span</h3><p id="yui_3_17_2_1_1439397890887_18877">Have you ever heard a 7 digit phone number and were able to recall it back right away? What happens when someone adds the area code? If you are like me, you have to ask someone to stop and repeat the first half of the number, and then the second half again as I write it on a piece of paper or type it into my iPhone.</p><p id="yui_3_17_2_1_1439397890887_18880">The human memory is funny like that. There is a term in psychology called “The 7 digit span” which recognizes for humans can easily move 7 digits (plus or minus two) or characters from their working memory into their long term memory. Any more characters and we begin to find ourselves writing them down, struggling to remember these phone numbers or passwords.</p><p id="yui_3_17_2_1_1439397890887_18883">It is no wonder that human behavior for these complex passwords is to write them on post-its and hide them under our keyboard. Many people even report having an excel file on their computer called “Passwords” with every username and password they have.</p><h3 id="yui_3_17_2_1_1439397890887_18886">Bandaging wounds</h3><p id="yui_3_17_2_1_1439397890887_18889">Password hacking is nothing new. Hackers have found a way to <a href="http://en.wikipedia.org/wiki/SQL_injection" target="_blank">hack databases</a> that store passwords and print them out in clear text. Tech communities since then have have found ways to encrypt the passwords stored… but it didn’t take hackers a long time to <a href="http://en.wikipedia.org/wiki/Rainbow_table" target="_blank">crack that</a> either. After hashes of basic passwords were compromised, the good people found a way to “salt + hash” passwords so inhibit hacking of this type… but you’ll be mistaken if you think this is a permanent fix. We can bandage up and lock down the technical infrastructure of passwords, but we can’t change the human memory enough to meet password demands.</p><h3 id="yui_3_17_2_1_1439397890887_18898">The Holy Grail (A.K.A. Two-factor authentication)</h3><p id="yui_3_17_2_1_1439397890887_18901">Security experts and tech enthusiasts will tell you two-factor authentication would solve all of our login problems, and they would be correct. “Two factor” has been around in the form of ATM transactions (Debit card being something you have, PIN being something you know), to more secure web logins (Password being something you know, 6 digit number being texted to your phone being something in your possession). With the simple combination of something you have with something you know, the threat of authentication based attacks dramatically decreases. But if this is such a life saver, why hasn’t it been widely adopted across the web?</p><h2 id="yui_3_17_2_1_1439397890887_18904">The Sidewalk v. the Path.</h2><img src="http://jeffhilimire.com/wp-content/uploads/2011/09/129150-Figure-02.png" title="" alt="image"/><p id="yui_3_17_2_1_1439397890887_18910">If you have ever seen a path right next to a sidewalk like this, you will realize just how much people crave convenience. We love it, we crave it, we even pay for it (ever see a Roomba?). Two-factor authentication as it exists today is incredibly inconvenient. People don’t like fumbling around with their phone and waiting for a text message. Setting it up is too time consuming and people are simply too busy to be bothered. In order to fix this problem, we need to dig up the sidewalk and lay it down in a convenient place where people are willing to walk.</p><h3 id="yui_3_17_2_1_1439397890887_18913">Going Back to the Start</h3><p id="yui_3_17_2_1_1439397890887_18916">While automobile manufacturers spend millions of dollars ineffectively converting their cars to electric models, Elon Musk completely redesigned Tesla from the bottom up. By using only parts that are necessary for his car to run, the result became his electric car startup monopoly. Tesla cars are sleek, stylish, and drive four times further than their competition. Musk recognizes what many don’t: Building upon technology of the past will only get us so far, but by going back to the start we can accomplish wonders.</p><p id="yui_3_17_2_1_1439397890887_18919">Everyday new technologies are released that can facilitate two factor authentication with minimal interaction from its users. This would be easier, more convenient, and most importantly, more secure than any authentication to date. Unfortunately, “security” companies build upon traditional password technologies and we will always be vulnerable until we go back to the start.</p>]]></content:encoded>
+      <excerpt:encoded />
+      <wp:post_name>the-password-problem</wp:post_name>
+      <wp:post_type>post</wp:post_type>
+      <wp:post_id>5</wp:post_id>
+      <wp:status>publish</wp:status>
+      <pubDate>Fri, 03 Oct 2014 09:30:00 +0000</pubDate>
+      <wp:post_date>2014-10-03 09:30:00</wp:post_date>
+      <wp:post_date_gmt>2014-10-03 09:30:00</wp:post_date_gmt>
+      <category domain="category" nicename="security"><![CDATA[Security]]></category>
+      <dc:creator>peter@rack5.co</dc:creator>
+      <wp:comment_status>open</wp:comment_status>
+    </item>
+    <item>
+      <title>How to Identify (and Mitigate) Your Single Point of Failure</title>
+      <link>/blog/single-point-of-failure</link>
+      <content:encoded><![CDATA[<img src="http://static1.squarespace.com/static/55c8c068e4b09cb562cdc655/55ca40b3e4b0ffb43cfef9c7/55cb7a55e4b0084e157f4cb9/1439398518431/closedLaptop.jpg" alt=""/>
+  
+
+<p><em>For our non-technical readers: If I mention a technical word I'll do my best to put a simple description in </em><i>parentheses.</i>
+I was in the middle of something last week when my MacBook Pro started experiencing random kernel panics (restarts or crashes without warning). As you can imagine, a number crude words escaped my vocal chords partnered with a face full of frustration.</p>
+<p>Even though I've worked in technical support for a number of years, I could not identify what was causing these kernel panics. After many tests and diagnostics, I gave up and brought it to the Apple Store. It turns out, my motherboard (really important part of the computer) went bad.</p>
+<p><!--more--></p>
+<p>Thankfully, I purchased <a href="https://www.apple.com/support/products/" target="_blank">AppleCare</a> with my laptop, so I am still entitled to free repairs and replacements, but this replacement will take at least a week.</p>
+<p>Not being able to run my computer for more than 20 minutes hit my productivity hard, but being without my only computer for a week would hit it even harder.</p>
+<p>In the I.T. industry, we call this a <strong><a href="http://en.wikipedia.org/wiki/Single_point_of_failure" target="_blank">single point of failure</a> </strong>(SPOF), and it refers to any system or computer that is depended on, and doesn't have any redundancies or alternatives available. In the event that it crashes or is broken, you would be rendered unable to do your job.</p>
+<h2>Local SPOFs</h2>
+<p>For the devices you own, you can do a quick audit for any SPOFs by pointing to any device plugged into a wall and ask yourself "if this stopped working, could I finish the work I need to get done today, this week, or however  long as it takes to replace this item?"</p>
+<p>If the answer is "no", then you have identified a physical SPOF.</p>
+<p>For example, at Key Authentication, we all work remotely, so devices that I would point at when I am at home are:</p>
+<ol>
+<li>My laptop</li>
+<li>My smartphone</li>
+<li>My wireless router</li>
+</ol>
+<p>If my wireless router stopped working, I could easily pick up my bag and head to the coffee shop on the corner with free wifi, or the coworking space that I typically work out of. Sure, I need to get it replaced, but it won’t keep me from getting work done that day.</p>
+<p>If my iPhone 6 dies, I still own my iPhone 5 that I use for product testing and I can easily swap SIM cards to get on with my day.</p>
+<p>If my MacBook Pro dies… I… well... then I am totally $h*t out of luck! I can’t effectively or efficiently work on my business from my iPhone, and I don’t have any other computer to open up Xcode and test new versions of Key.</p>
+<p>Maybe if I worked for a larger company and we had a physical office building, I would easily be able to waltz over to the I.T. department and have it fixed or get a replacement in the same hour, but I don’t. This was my SPOF and I experienced first hand what a lack of a contingency plan does to my productivity.</p>
+<h2>Virtual SPOFs</h2>
+<p>If you work with a distributed team like we do, SPOFs exist outside of your physical presence as well. For us, it is the collection of online collaboration tools we use to move the business forward:</p>
+<ol>
+<li>Google Apps for Work (Email, file sharing, etc)</li>
+<li>Slack (chat with team)</li>
+<li>Trello (Task management and todos)</li>
+<li>Bitbucket (source code hosting, bugs)</li>
+</ol>
+<p>These companies are larger than us, and they have extra servers allocated for redundancy purposes and teams to make sure that their products are up 99.9% of the time. While it is unlikely that any of these tools will crash, I am still going to take time to create contingency plans if a service we rely on goes down.</p>
+<p>Because my MacBook Pro is in for repairs, and I needed to fix my SPOF, I have now purchased a MacBook Air for personal use. Sure this will be my main computer for Netflix, email, and any other personal work, but it now serves as a backup computer for work in the event that my work computer needs repairs. All of my data is backed up using <a href="https://support.apple.com/en-us/HT201250" target="_blank">Time Machine</a> for local backups and <a href="https://www.code42.com/crashplan/" target="_blank">CrashPlan</a> for online backups, so with the new computer I can pick up right where I left off.</p>
+<p>Point to things in your workspace, make a list of tools you use online, and start making contingency plans for any SPOFs. When you experience a crash, you'll be happy you thought ahead.</p>]]></content:encoded>
+      <excerpt:encoded />
+      <wp:post_name>single-point-of-failure</wp:post_name>
+      <wp:post_type>post</wp:post_type>
+      <wp:post_id>6</wp:post_id>
+      <wp:status>publish</wp:status>
+      <pubDate>Sat, 07 Mar 2015 20:09:31 +0000</pubDate>
+      <wp:post_date>2015-03-07 20:09:31</wp:post_date>
+      <wp:post_date_gmt>2015-03-07 20:09:31</wp:post_date_gmt>
+      <category domain="post_tag" nicename="tips"><![CDATA[Tips]]></category>
+      <category domain="category" nicename="security"><![CDATA[Security]]></category>
+      <dc:creator>peter@rack5.co</dc:creator>
+      <wp:comment_status>open</wp:comment_status>
+    </item>
+    <item>
+      <wp:attachment_url>http://static1.squarespace.com/static/55c8c068e4b09cb562cdc655/55ca40b3e4b0ffb43cfef9c7/55cb7a55e4b0084e157f4cb9/1439398518431/closedLaptop.jpg</wp:attachment_url>
+      <link>http://static1.squarespace.com/static/55c8c068e4b09cb562cdc655/55ca40b3e4b0ffb43cfef9c7/55cb7a55e4b0084e157f4cb9/1439398518431/closedLaptop.jpg</link>
+      <title>attachment-55cb7a55e4b0084e157f4cb9</title>
+      <wp:post_name>closedLaptop-jpg</wp:post_name>
+      <wp:post_type>attachment</wp:post_type>
+      <wp:post_id>7</wp:post_id>
+      <wp:post_parent>6</wp:post_parent>
+      <wp:status>inherit</wp:status>
+      <content:encoded><![CDATA[img-55cb7a55e4b0084e157f4cb9]]></content:encoded>
+      <excerpt:encoded><![CDATA[exc-55cb7a55e4b0084e157f4cb9]]></excerpt:encoded>
+      <pubDate>Wed, 12 Aug 2015 16:54:45 +0000</pubDate>
+      <wp:post_date>2015-08-12 16:54:45</wp:post_date>
+      <wp:post_date_gmt>2015-08-12 16:54:45</wp:post_date_gmt>
+      <dc:creator>peter@rack5.co</dc:creator>
+    </item>
+    <item>
+      <title>Why You Should Encrypt Your Mac</title>
+      <link>/blog/why-you-should-encrypt-your-mac</link>
+      <content:encoded><![CDATA[<img src="http://static1.squarespace.com/static/55c8c068e4b09cb562cdc655/55ca40b3e4b0ffb43cfef9c7/55cb7c08e4b04c85fd939088/1439398923089//img.png" alt=""/>
+  
+
+<p id="yui_3_17_2_1_1439397890887_104899">I mentioned in an <a href="https://rack5.squarespace.com/key-1/2015/02/6-steps-to-a-safer-business" target="_blank">earlier blog post</a>&nbsp;the benefits of encrypting your laptop.&nbsp;On Mac, Apple has built-in a tool&nbsp;called FileVault that allows you to encrypt&nbsp;all of your computer’s data.
+<strong>What is full disk encryption?</strong>
+I like to think of "full disk encryption" is a fancy word for organized scrambling. All data on your computer is scrambled to the point where it becomes&nbsp;useless to anyone without your master password. When you log in as usual, your password not only grants you access to the computer, but also allows the computer to mathematically make sense of the scrambled mess.</p><p id="yui_3_17_2_1_1439397890887_104908"><strong>Why should I care?</strong>
+Many businesses automatically encrypt every computer that can leave the company's office. The reason for that being in the event of a lost or stolen laptop computer, any sensitive data will be protected and safe from any unauthorized individuals.</p><p id="yui_3_17_2_1_1439397890887_104913">If you have a Mac, you don't need any special software to encrypt your Mac. The best part is, it is free, doesn't affect your productivity, and it takes less than 5 minutes to set up.</p><p id="yui_3_17_2_1_1439397890887_104916"><a href="https://support.apple.com/kb/PH18637?locale=en_US&amp;viewlocale=en_US" target="_blank">Official instructions</a> are on apple’s website, but I am going to make my own with many images to help “visual learners” like myself:</p><p id="yui_3_17_2_1_1439397890887_104921"><strong>Go to the Apple Menu (1), select "System Preferences" (2), then select "Security &amp; Privacy" (3).</strong></p>
+  
+      <a href="http://static1.squarespace.com/static/55c8c068e4b09cb562cdc655/55ca40b3e4b0ffb43cfef9c7/55ca40b4e4b0ffb43cfefa1d/1429630153000/step1MacEncrypt-e1429632648310.png?format=original" ><img src="http://static1.squarespace.com/static/55c8c068e4b09cb562cdc655/55ca40b3e4b0ffb43cfef9c7/55cb7c35e4b002535ed983fd/1439398968575//img.png" alt=""/></a>
+  
+
+<p><strong>Choose the FileVault tab (4), click on the lock icon in the corner to unlock it (5), enter your username and password (6), and finally click "Turn On FileVault" (7).</strong></p>
+  
+      <a href="http://static1.squarespace.com/static/55c8c068e4b09cb562cdc655/55ca40b3e4b0ffb43cfef9c7/55ca40b4e4b0ffb43cfefa23/1429632697000/step2MacEncrypt-e1429632730395.png?format=original" ><img src="http://static1.squarespace.com/static/55c8c068e4b09cb562cdc655/55ca40b3e4b0ffb43cfef9c7/55cb7c5fe4b03aba01d4ccb9/1439399009172//img.png" alt=""/></a>
+  
+
+<p id="yui_3_17_2_1_1439397890887_117717"><strong>You will be presented with an&nbsp;option to use your iCloud account or a Recovery Key for Unlocking the disk. </strong></p><p id="yui_3_17_2_1_1439397890887_117718"><strong>WARNING:&nbsp;If&nbsp;you chose a Recovery Key, do not forget to write it down. If you turn on FileVault and then forget your login password and cannot reset it, and you also forget your recovery key, you won’t be able to log in and your files and settings will be lost forever. </strong></p>
+  
+      <a href="http://static1.squarespace.com/static/55c8c068e4b09cb562cdc655/55ca40b3e4b0ffb43cfef9c7/55ca40b4e4b0ffb43cfefa26/1429632953000/step3MacEncrypt-e1429632976980.png?format=original" ><img src="http://static1.squarespace.com/static/55c8c068e4b09cb562cdc655/55ca40b3e4b0ffb43cfef9c7/55cb7cb8e4b05bf894d12122/1439399100290//img.png" alt=""/></a>
+  
+
+<p><strong>Continue and click "Restart" to reboot your computer and start the encryption process.</strong></p><p>When the reboot has finished and the encryption processes has started, you can continue to use your computer as you normally would. Encrypting should not affect your productivity and will keep your data safe in the event of a lost or stolen laptop.</p><p>Happy encrypting!</p>]]></content:encoded>
+      <excerpt:encoded />
+      <wp:post_name>why-you-should-encrypt-your-mac</wp:post_name>
+      <wp:post_type>post</wp:post_type>
+      <wp:post_id>8</wp:post_id>
+      <wp:status>publish</wp:status>
+      <pubDate>Wed, 22 Apr 2015 20:09:31 +0000</pubDate>
+      <wp:post_date>2015-04-22 20:09:31</wp:post_date>
+      <wp:post_date_gmt>2015-04-22 20:09:31</wp:post_date_gmt>
+      <category domain="post_tag" nicename="tutorial"><![CDATA[Tutorial]]></category>
+      <category domain="category" nicename="security"><![CDATA[Security]]></category>
+      <dc:creator>peter@rack5.co</dc:creator>
+      <wp:comment_status>open</wp:comment_status>
+    </item>
+    <item>
+      <wp:attachment_url>http://static1.squarespace.com/static/55c8c068e4b09cb562cdc655/55ca40b3e4b0ffb43cfef9c7/55cb7cb8e4b05bf894d12122/1439399100290//img.png</wp:attachment_url>
+      <link>http://static1.squarespace.com/static/55c8c068e4b09cb562cdc655/55ca40b3e4b0ffb43cfef9c7/55cb7cb8e4b05bf894d12122/1439399100290//img.png</link>
+      <title>attachment-55cb7cb8e4b05bf894d12122</title>
+      <wp:post_name />
+      <wp:post_type>attachment</wp:post_type>
+      <wp:post_id>9</wp:post_id>
+      <wp:post_parent>8</wp:post_parent>
+      <wp:status>inherit</wp:status>
+      <content:encoded><![CDATA[img-55cb7cb8e4b05bf894d12122]]></content:encoded>
+      <excerpt:encoded><![CDATA[exc-55cb7cb8e4b05bf894d12122]]></excerpt:encoded>
+      <pubDate>Wed, 12 Aug 2015 17:04:56 +0000</pubDate>
+      <wp:post_date>2015-08-12 17:04:56</wp:post_date>
+      <wp:post_date_gmt>2015-08-12 17:04:56</wp:post_date_gmt>
+      <dc:creator>peter@rack5.co</dc:creator>
+    </item>
+    <item>
+      <wp:attachment_url>http://static1.squarespace.com/static/55c8c068e4b09cb562cdc655/55ca40b3e4b0ffb43cfef9c7/55cb7c5fe4b03aba01d4ccb9/1439399009172//img.png</wp:attachment_url>
+      <link>http://static1.squarespace.com/static/55c8c068e4b09cb562cdc655/55ca40b3e4b0ffb43cfef9c7/55cb7c5fe4b03aba01d4ccb9/1439399009172//img.png</link>
+      <title>attachment-55cb7c5fe4b03aba01d4ccb9</title>
+      <wp:post_name />
+      <wp:post_type>attachment</wp:post_type>
+      <wp:post_id>10</wp:post_id>
+      <wp:post_parent>8</wp:post_parent>
+      <wp:status>inherit</wp:status>
+      <content:encoded><![CDATA[img-55cb7c5fe4b03aba01d4ccb9]]></content:encoded>
+      <excerpt:encoded><![CDATA[exc-55cb7c5fe4b03aba01d4ccb9]]></excerpt:encoded>
+      <pubDate>Wed, 12 Aug 2015 17:03:27 +0000</pubDate>
+      <wp:post_date>2015-08-12 17:03:27</wp:post_date>
+      <wp:post_date_gmt>2015-08-12 17:03:27</wp:post_date_gmt>
+      <dc:creator>peter@rack5.co</dc:creator>
+    </item>
+    <item>
+      <wp:attachment_url>http://static1.squarespace.com/static/55c8c068e4b09cb562cdc655/55ca40b3e4b0ffb43cfef9c7/55cb7c35e4b002535ed983fd/1439398968575//img.png</wp:attachment_url>
+      <link>http://static1.squarespace.com/static/55c8c068e4b09cb562cdc655/55ca40b3e4b0ffb43cfef9c7/55cb7c35e4b002535ed983fd/1439398968575//img.png</link>
+      <title>attachment-55cb7c35e4b002535ed983fd</title>
+      <wp:post_name />
+      <wp:post_type>attachment</wp:post_type>
+      <wp:post_id>11</wp:post_id>
+      <wp:post_parent>8</wp:post_parent>
+      <wp:status>inherit</wp:status>
+      <content:encoded><![CDATA[img-55cb7c35e4b002535ed983fd]]></content:encoded>
+      <excerpt:encoded><![CDATA[exc-55cb7c35e4b002535ed983fd]]></excerpt:encoded>
+      <pubDate>Wed, 12 Aug 2015 17:02:45 +0000</pubDate>
+      <wp:post_date>2015-08-12 17:02:45</wp:post_date>
+      <wp:post_date_gmt>2015-08-12 17:02:45</wp:post_date_gmt>
+      <dc:creator>peter@rack5.co</dc:creator>
+    </item>
+    <item>
+      <wp:attachment_url>http://static1.squarespace.com/static/55c8c068e4b09cb562cdc655/55ca40b3e4b0ffb43cfef9c7/55cb7c08e4b04c85fd939088/1439398923089//img.png</wp:attachment_url>
+      <link>http://static1.squarespace.com/static/55c8c068e4b09cb562cdc655/55ca40b3e4b0ffb43cfef9c7/55cb7c08e4b04c85fd939088/1439398923089//img.png</link>
+      <title>attachment-55cb7c08e4b04c85fd939088</title>
+      <wp:post_name />
+      <wp:post_type>attachment</wp:post_type>
+      <wp:post_id>12</wp:post_id>
+      <wp:post_parent>8</wp:post_parent>
+      <wp:status>inherit</wp:status>
+      <content:encoded><![CDATA[img-55cb7c08e4b04c85fd939088]]></content:encoded>
+      <excerpt:encoded><![CDATA[exc-55cb7c08e4b04c85fd939088]]></excerpt:encoded>
+      <pubDate>Wed, 12 Aug 2015 17:02:00 +0000</pubDate>
+      <wp:post_date>2015-08-12 17:02:00</wp:post_date>
+      <wp:post_date_gmt>2015-08-12 17:02:00</wp:post_date_gmt>
+      <dc:creator>peter@rack5.co</dc:creator>
+    </item>
+    <item>
+      <title>How I Got 2GB of Additional Storage for Google Drive</title>
+      <link>/blog/how-i-got-2gb-of-additional-storage-for-google-drive</link>
+      <content:encoded><![CDATA[<img src="http://static1.squarespace.com/static/55c8c068e4b09cb562cdc655/55ca40b3e4b0ffb43cfef9c7/55cb7b2ce4b03aba01d4c5ac/1439398745061//img.jpg" alt=""/>
+  
+
+<p id="yui_3_17_2_1_1439397890887_79608">It isn’t frequent when being secure online&nbsp;pays it’s dividends to us. Most of the time, when we change our passwords, or enable two factor authentication, it only makes life more inconvenient.
+But that wasn’t the case this morning! This morning I got an email from Google that notified me that they had given me 2GB of additional Google Drive storage, free and&nbsp;permanently, for taking the time to go through their <a href="https://security.google.com/settings/security/secureaccount" target="_blank">Security Checkup</a>.</p>
+  
+       [caption id="" align="alignnone" width="624.0"]<a href="http://static1.squarespace.com/static/55c8c068e4b09cb562cdc655/55ca40b3e4b0ffb43cfef9c7/55ca40b4e4b0ffb43cfefa0b/1425946766000/Screenshot-2015-03-10-10.52.42.png?format=original" ><img src="http://static1.squarespace.com/static/55c8c068e4b09cb562cdc655/55ca40b3e4b0ffb43cfef9c7/55cb7b6fe4b03aba01d4c754/1439398779836//img.png" alt="Screenshot 2015-03-10 10.52.42"/></a> Screenshot 2015-03-10 10.52.42[/caption] 
+  
+
+<p id="yui_3_17_2_1_1439397890887_79617">Unfortunately for you reading this now, <a href="http://googledrive.blogspot.com/2015/02/safer-internet-day-2015.html" target="_blank">this scheme</a> apparently ended on February 17th, 2015, but that doesn’t mean there is no benefits for getting a security checkup!</p><p id="yui_3_17_2_1_1439397890887_79623">In&nbsp;fact, when I went through the checkup, I had no idea I was going to get the 2GB bonus. I&nbsp;did it because I&nbsp;take email security&nbsp;very seriously. As I <a href="https://rack5.squarespace.com/key-1/2015/02/6-steps-to-a-safer-business" target="_blank">mentioned before</a>, email is essentially the sum of our online identity. Once someone is in our email, every other "protected website" can be accessed by clicking the “I forgot my&nbsp;password” link.</p><p id="yui_3_17_2_1_1439397890887_79629">Either way, I’d like to show you quickly explain to you what each step of&nbsp;the <a href="https://security.google.com/settings/security/secureaccount" target="_blank">Google Security Checkup</a>&nbsp;covers, and why each step is important, in plain english.</p><p id="yui_3_17_2_1_1439397890887_79635">Note: the Security Check only takes a few minutes,&nbsp;so I strongly encourage going through it.</p><h2 id="yui_3_17_2_1_1439397890887_79638">Checking Recovery Information</h2><p id="yui_3_17_2_1_1439397890887_79641">Recovery information is most commonly used in the event that you forget your email's password. If you are setting a password that you aren’t going to forget, I’d guess you are either Rain Man&nbsp;and can remember your&nbsp;super complicated password,&nbsp;or you may need to revisit it because it isn't too secure.</p><p id="yui_3_17_2_1_1439397890887_79644">Either way, I recommend throwing in your mobile phone info (as it is unlikely to leave your side), and a secondary email account (which should also be secure!)</p><h2 id="yui_3_17_2_1_1439397890887_79647">Checking Recent Activity</h2><p id="yui_3_17_2_1_1439397890887_79650">This section covers all recent logins to your google account at different locations. It may include logging on from your phone, different web browsers, or different locations. Do a quick check and see if anything stands out. If it does, click “Something looks wrong” and change your password.</p><p id="yui_3_17_2_1_1439397890887_79653">This is a neat way to check if someone&nbsp;else is currently or previously logged in to your account. If you are located in Colorado, and you see a current session in China… it may be time to change that password!</p><h2 id="yui_3_17_2_1_1439397890887_79656">Checking Your Account Permissions</h2><p id="yui_3_17_2_1_1439397890887_79659">Google allows you to use your Google Account to log into other sites and services, like your recent activity, see what applications you have granted access to your Google Account. If anything looks out of place or is outdated, revoke it’s access and continue to the next section.</p><h2 id="yui_3_17_2_1_1439397890887_79662">Checking Your App Passwords</h2><p id="yui_3_17_2_1_1439397890887_79665">If you have enabled two factor authentication (combining a password with a one time code on your phone), App Passwords are how you authenticate your Google account to those services that don’t support two&nbsp;factor authentication, like the Mail account on your iPhone.</p><p id="yui_3_17_2_1_1439397890887_79668">Like your account permissions, check to see if anything looks out of place or is outdated, remove&nbsp;what is unnecessary and move onto the final section.</p><h2 id="yui_3_17_2_1_1439397890887_79671">Check Your Two Factor&nbsp;Authentication Settings</h2><p id="yui_3_17_2_1_1439397890887_79674">While inconvenient, two factor authentication makes it near impossible for a hacker to get into your account. Google offers text message services and a mobile app,&nbsp;<a href="https://support.google.com/accounts/answer/1066447?hl=en" target="_blank">Google Authenticator</a>, to help you validate a secure login.&nbsp;If you have a smartphone, I strongly recommend the Authenticator application, it doesn’t require an internet connection and generates a new passcode&nbsp;every 30 seconds.</p><p id="yui_3_17_2_1_1439397890887_79680">In the event that the phone you’ve installed google authenticator on is lost, google sets two factor backups… one being your primary phone number&nbsp;which hopefully is given to your new phone, and the other is a set of 10 printable codes&nbsp;(each code can only be used once) that can get you into your account.</p><p id="yui_3_17_2_1_1439397890887_79683">Making sure these two factor settings are up to date will dramatically increase your&nbsp;security online.</p><p id="yui_3_17_2_1_1439397890887_79686">Go through <a href="https://security.google.com/settings/security/secureaccount" target="_blank">Google’s Security Checkup</a>&nbsp;right now and tie up loose ends on your email security… it’s worth it, even if you don’t get the additional 2GB of Google Drive Storage (Hey! Stop being greedy! They give you 15GB to start with anyways!)</p>]]></content:encoded>
+      <excerpt:encoded />
+      <wp:post_name>how-i-got-2gb-of-additional-storage-for-google-drive</wp:post_name>
+      <wp:post_type>post</wp:post_type>
+      <wp:post_id>13</wp:post_id>
+      <wp:status>publish</wp:status>
+      <pubDate>Fri, 20 Mar 2015 07:00:15 +0000</pubDate>
+      <wp:post_date>2015-03-20 07:00:15</wp:post_date>
+      <wp:post_date_gmt>2015-03-20 07:00:15</wp:post_date_gmt>
+      <category domain="category" nicename="security"><![CDATA[Security]]></category>
+      <dc:creator>peter@rack5.co</dc:creator>
+      <wp:comment_status>open</wp:comment_status>
+    </item>
+    <item>
+      <wp:attachment_url>http://static1.squarespace.com/static/55c8c068e4b09cb562cdc655/55ca40b3e4b0ffb43cfef9c7/55cb7b6fe4b03aba01d4c754/1439398779836//img.png</wp:attachment_url>
+      <link>http://static1.squarespace.com/static/55c8c068e4b09cb562cdc655/55ca40b3e4b0ffb43cfef9c7/55cb7b6fe4b03aba01d4c754/1439398779836//img.png</link>
+      <title>attachment-55cb7b6fe4b03aba01d4c754</title>
+      <wp:post_name />
+      <wp:post_type>attachment</wp:post_type>
+      <wp:post_id>14</wp:post_id>
+      <wp:post_parent>13</wp:post_parent>
+      <wp:status>inherit</wp:status>
+      <content:encoded><![CDATA[img-55cb7b6fe4b03aba01d4c754]]></content:encoded>
+      <excerpt:encoded><![CDATA[exc-55cb7b6fe4b03aba01d4c754]]></excerpt:encoded>
+      <pubDate>Wed, 12 Aug 2015 16:59:27 +0000</pubDate>
+      <wp:post_date>2015-08-12 16:59:27</wp:post_date>
+      <wp:post_date_gmt>2015-08-12 16:59:27</wp:post_date_gmt>
+      <dc:creator>peter@rack5.co</dc:creator>
+    </item>
+    <item>
+      <wp:attachment_url>http://static1.squarespace.com/static/55c8c068e4b09cb562cdc655/55ca40b3e4b0ffb43cfef9c7/55cb7b2ce4b03aba01d4c5ac/1439398745061//img.jpg</wp:attachment_url>
+      <link>http://static1.squarespace.com/static/55c8c068e4b09cb562cdc655/55ca40b3e4b0ffb43cfef9c7/55cb7b2ce4b03aba01d4c5ac/1439398745061//img.jpg</link>
+      <title>attachment-55cb7b2ce4b03aba01d4c5ac</title>
+      <wp:post_name />
+      <wp:post_type>attachment</wp:post_type>
+      <wp:post_id>15</wp:post_id>
+      <wp:post_parent>13</wp:post_parent>
+      <wp:status>inherit</wp:status>
+      <content:encoded><![CDATA[img-55cb7b2ce4b03aba01d4c5ac]]></content:encoded>
+      <excerpt:encoded><![CDATA[exc-55cb7b2ce4b03aba01d4c5ac]]></excerpt:encoded>
+      <pubDate>Wed, 12 Aug 2015 16:58:20 +0000</pubDate>
+      <wp:post_date>2015-08-12 16:58:20</wp:post_date>
+      <wp:post_date_gmt>2015-08-12 16:58:20</wp:post_date_gmt>
+      <dc:creator>peter@rack5.co</dc:creator>
+    </item>
+    <item>
+      <title>6 Steps to a Safer Business</title>
+      <link>/blog/6-steps-to-a-safer-business</link>
+      <content:encoded><![CDATA[<img src="http://static1.squarespace.com/static/55c8c068e4b09cb562cdc655/55ca40b3e4b0ffb43cfef9c7/55cb797ce4b0a654d64c83dc/1439398299529/bw_MacBook_typing.jpg" alt=""/>
+  
+
+<p>I cringe when I hear entrepreneurs and small business workers tell me that they “... are too small to be targeted by hackers”. Let me set this straight, this sort of ignorance can cost you thousands of dollars. To set the record straight, hackers are opportunistic.&nbsp;They have software that scans hundreds to thousands of computers at a time and finds out rather quickly if you’ve been slacking in the security department. Once a weak spot is identified, they exploit it.</p><p>If you are like most people, you probably know you should be doing more to protect your computer and keep your company data secure. You may not know where to start, or maybe you (or someone you know) don’t think security should be as big of a concern as those “mission critical” task.</p><p><!--more--></p><p>I read this Inc. article, which stated that in 2013, the National Small Business Association surveyed about 800 small business owners and found that 40% of them had been attacked. Damages cost them an average of $8,699 per attack. If you are anything like myself, that loss would be hard to recover from.</p><blockquote><p>“According to a recent survey, more than 40 percent of small businesses report that they have been the victims of a cyber attack-- and it has cost them thousands of dollars.” &nbsp;- Study: 40% of Small Businesses Have Been Victims of Cyber Attacks (<a target="_blank" href="http://www.inc.com/laura-montini/nsba-survey-cybersecurity.html">Inc. Magazine</a>)</p></blockquote><p>Thankfully, protecting yourself on and offline isn’t rocket science. A little common sense goes a long way. Here, I have provided a list of six things you should keep in mind when working online and off.</p><h2><strong>1. Enable “full/whole disk encryption” on your laptops</strong></h2><p>Your laptop stores more information on it than you may be aware of, like cookies, passwords, credit card details, documents, photos, etc. In the event of losing your laptop (or worse, it was stolen!) you need&nbsp;to make sure that your data is secured. This is where “disk encryption” comes into play. Laptops that are encrypted have all of their information scrambled on the hard drive, making it completely unreadable to anyone without the password to unlock it.</p><p>On Mac OS X, <em>FileVault</em> is a free, built-in encryption software that takes seconds to set up. <em>BitLocker</em> comes built-in on the Pro and Enterprise versions of Windows 7 and 8.</p><p>An unencrypted laptop that is lost or stolen quickly becomes a company-wide emergency. You will spend days&nbsp;trying to figure out exactly what data was on the computer, calculating your losses, calling your customers to tell them their information they trusted with you may be leaked, and then months repairing your brand's reputation.</p><p>An encrypted laptop that is lost or stolen is really just an inconvenience and an insurance claim.</p><p>Ask any person you know that works in I.T. about the time they realized the company needed to encrypt laptops. I bet you can see their smiles and color fade from their face.</p><h2><strong>2. Disable automatic login (and lock before you walk)</strong></h2><p>Even if you still have possession of your laptop, you want to make sure people can’t read your sensitive data (or type an embarrassing post to Facebook for a good laugh) when you take your coffee break.</p><p>On Mac OSX and Windows, you want to make sure that you disable the automatic login feature. This&nbsp;ensures&nbsp;that anyone who visits your laptop can only look at a pretty lock screen and not what is behind it. Software developer Elliott Kember wrote an <a target="_blank" href="http://blog.elliottkember.com/chromes-insane-password-security-strategy">amazing blog post</a> about how someone can access your password data without doing anything illegal if your computer isn’t locked.</p><p>They say there is nothing common about common sense, so I encourage everyone to make sure that when your computer is booted, you are always welcomed with some sort of login screen, and to “lock before you walk”.</p><h2><strong>3. Make sure all smartphones and tablets can be wiped remotely</strong></h2><p>With the introduction of smartphones and tablets into the workplace, we now have smaller devices that hold company data! While they are wonderfully convenient, they also are easier to lose or have stolen.</p><p>Much like our new laptop policies, make sure you set policies in place for mobile devices. While software exists to protect these devices, it is more realistic (and cost effective) for small businesses to force these devices to have strong lock screen codes and enable remote wiping.</p><p>These two steps will make sure that the data on your lost or stolen devices are protected long enough for you erase all the contents of the device from your computer or another smartphone.</p><h2><strong>4. Turn on encryption for&nbsp;</strong><strong>sites you visit</strong></h2><p>Now that our hardware is locked down and we feel safer, we have to now look at&nbsp;the software side of security.</p><p>Every time you visit a website, data is sent between your computer, and a large server somewhere in the aether. When data is coming to you for consumption, all that matters is you can see and/or hear it. But when you are filling out forms, uploading files, putting in your credit card details, or typing your username and password, you want to be sure that your connection is encrypted.</p><p>These days, most websites will use something called HTTPS or SSL. This technology encrypts data you send from your computer and makes sure that the data is received on the other end safely. Websites that use HTTPS/SSL will have a little lock in the URL bar.<strong><strong>&nbsp;</strong></strong></p><p>Websites that don’t use HTTPS/SSL won’t have the little lock and will send all of your data over the Internet in clear and readable text. Anyone you share a Wi-Fi&nbsp;connection with can have complete access to the data you send over the network. Free apps like <a target="_blank" href="https://www.wireshark.org">WireShark</a>&nbsp;allow people to do just that.</p><h2><strong>5. Create unique and complicated passwords&nbsp;for each website</strong></h2><p>If your password is one of the <a target="_blank" href="http://boingboing.net/2013/12/07/worst-passwords.html">top 10,000 used passwords</a> (that list is from 2013, and&nbsp;it hasn’t changed all that much in the past year), it is time to change it. A weak password can be guessed by a computer in seconds. Whereas stronger passwords may take many years for a computer to crack.</p><p>A strong password helps a lot, but not if you use it everywhere. While some companies and websites protect their passwords like Fort Knox protected gold, others protect about as effectively as you protected your treehouse while you were at school. Even <a target="_blank" href="http://xkcd.com/792/">xkcd</a> even has a relevant comic about this.</p><p>If your super-awesome-complicated password is compromised, nothing will stop the hacker from using it on all of your accounts. This holds especially true for your email password. Once your email is compromised, all a hacker needs to do is click the “forgot my password” link on various websites to gain access.</p><p>Some password managers exist to try to alleviate this password problem by storing (and in some cases, creating) your passwords for you, like a personal password journal some of you probably have. All those passwords are typically protected by a “Master password” that you must always remember (or else!).&nbsp;We are currently building one into Key that you’ll love to use and wonder how you got through life before it!</p><p>Some web browsers, like Safari, Firefox and Chrome, will store your passwords as well, but those password managers are usually restricted to the browser and difficult to use outside of that one browser.</p><h2><strong>6. Use two-factor authentication</strong></h2><p>Sometimes passwords aren’t enough. This is where two-factor authentication becomes the best way to protect your most secure assets.</p><p>You may have used this before without knowing exactly what it was, but after you type your password, you may have gotten a text to your phone with 6 random digits that you need to type to finish the verification.</p><p>This works because it verifies you with two factors of your identity, something you know (password) and something you have (phone).</p><p>While I personally use it everywhere it is available (making my login times ridiculously long), many small businesses will use it specifically for their email addresses to prevent the kinds of attacks I mentioned above.</p><h3>In the coming weeks I will provide &nbsp;simple -- step by step -- actionable tutorials on the steps above! Stay tuned!</h3><h3>For more helpful info like this, be sure to subscribe to Key in the footer of this webpage!</h3>]]></content:encoded>
+      <excerpt:encoded />
+      <wp:post_name>6-steps-to-a-safer-business</wp:post_name>
+      <wp:post_type>post</wp:post_type>
+      <wp:post_id>16</wp:post_id>
+      <wp:status>publish</wp:status>
+      <pubDate>Tue, 03 Feb 2015 15:07:05 +0000</pubDate>
+      <wp:post_date>2015-02-03 15:07:05</wp:post_date>
+      <wp:post_date_gmt>2015-02-03 15:07:05</wp:post_date_gmt>
+      <category domain="category" nicename="security"><![CDATA[Security]]></category>
+      <dc:creator>peter@rack5.co</dc:creator>
+      <wp:comment_status>open</wp:comment_status>
+    </item>
+    <item>
+      <wp:attachment_url>http://static1.squarespace.com/static/55c8c068e4b09cb562cdc655/55ca40b3e4b0ffb43cfef9c7/55cb797ce4b0a654d64c83dc/1439398299529/bw_MacBook_typing.jpg</wp:attachment_url>
+      <link>http://static1.squarespace.com/static/55c8c068e4b09cb562cdc655/55ca40b3e4b0ffb43cfef9c7/55cb797ce4b0a654d64c83dc/1439398299529/bw_MacBook_typing.jpg</link>
+      <title>attachment-55cb797ce4b0a654d64c83dc</title>
+      <wp:post_name>bw-MacBook-typing-jpg</wp:post_name>
+      <wp:post_type>attachment</wp:post_type>
+      <wp:post_id>17</wp:post_id>
+      <wp:post_parent>16</wp:post_parent>
+      <wp:status>inherit</wp:status>
+      <content:encoded><![CDATA[img-55cb797ce4b0a654d64c83dc]]></content:encoded>
+      <excerpt:encoded><![CDATA[exc-55cb797ce4b0a654d64c83dc]]></excerpt:encoded>
+      <pubDate>Wed, 12 Aug 2015 16:51:08 +0000</pubDate>
+      <wp:post_date>2015-08-12 16:51:08</wp:post_date>
+      <wp:post_date_gmt>2015-08-12 16:51:08</wp:post_date_gmt>
+      <dc:creator>peter@rack5.co</dc:creator>
+    </item>
+    <item>
+      <title>Viva Las Vegas!</title>
+      <link>/blog/viva-las-vegas</link>
+      <content:encoded><![CDATA[<img src="http://static1.squarespace.com/static/55c8c068e4b09cb562cdc655/55ca40b3e4b0ffb43cfef9c7/55cb9b3ce4b0c3bdbb80ba2b/1439406911933//img.png" alt=""/>
+  
+
+<p>We love building tools to help people log in without needing to remember passwords. We also love showing it off whenever we can! We at “Team Key” exhibited Key at the Collision Conference in Las Vegas a few weeks ago, and yes, it was exactly as amazing as it sounds! What a conference! We got a huge rush from meeting people and hearing about their innovative products/ideas. Aside from the attendees, we were thrilled to meet some speakers and investors as well! Many of the talks were amazing, but we were completely blown away by <a href="http://www.ted.com/talks/david_mccandless_the_beauty_of_data_visualization?language=en">David McCandless</a>&nbsp;on the Builder's Stage. We purchased his book after right after the event.</p><p>Exhibiting Key, and our vision for a password free future, was exhilarating.&nbsp;Many people stopped to chat, see a demo of Key, and snatched our business cards. We managed to take some of theirs as well for an iPad Air 2 giveaway! Unfortunately,&nbsp;the majority of people reading this did not win our raffle (sorry!). Our winner was the one and only John Walter, founder of <a target="_blank" href="http://stockjock.co/">StockJock</a>!</p><p>We hit it off with John and his energetic personality. He's awesome and we're thrilled to have him in our network! John is also much more photogenic than Pete.</p>
+ 
+   <blockquote class="twitter-tweet"><p lang="en" dir="ltr">Thrilled to announce that <a href="https://twitter.com/WaltopiaNow">@WaltopiaNow</a> was the winner of our iPad Air 2 business card raffle! <a href="https://twitter.com/hashtag/CollisionConf?src=hash">#CollisionConf</a> <a href="http://t.co/FAoP4YoDUV">pic.twitter.com/FAoP4YoDUV</a></p>— Key (@KeyAuth) <a href="https://twitter.com/KeyAuth/status/595756387399000065">May 6, 2015</a></blockquote>
+<script async="" src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+ 
+<p>We wanted to keep in touch with everyone we met,&nbsp;so we made sure to add you to our email list!&nbsp;We won't spam your inbox or share your contact information with any 3rd parties. If you'd rather not receive awesome email updates,&nbsp;unsubscribe at any time. We will try hard not to hold it against you ;-).</p><p>We're excited to build relationships with other attendees we met at the conference. So feel free to email us with questions, comments, or just to say hi!</p><p>Hope your Collision was just as good as ours!</p>
+  
+      <a href="http://static1.squarespace.com/static/55c8c068e4b09cb562cdc655/55ca40b3e4b0ffb43cfef9c7/55ca40b6e4b0ffb43cfefa3f/1432134923000/2015-05-08-20.16.11-e1432135003122.jpg?format=original" ><img src="http://static1.squarespace.com/static/55c8c068e4b09cb562cdc655/55ca40b3e4b0ffb43cfef9c7/55cb9b96e4b0db8222810630/1439407004936//img.jpg" alt=""/></a>]]></content:encoded>
+      <excerpt:encoded />
+      <wp:post_name>viva-las-vegas</wp:post_name>
+      <wp:post_type>post</wp:post_type>
+      <wp:post_id>18</wp:post_id>
+      <wp:status>publish</wp:status>
+      <pubDate>Wed, 20 May 2015 15:58:33 +0000</pubDate>
+      <wp:post_date>2015-05-20 15:58:33</wp:post_date>
+      <wp:post_date_gmt>2015-05-20 15:58:33</wp:post_date_gmt>
+      <dc:creator>peter@rack5.co</dc:creator>
+      <wp:comment_status>open</wp:comment_status>
+    </item>
+    <item>
+      <wp:attachment_url>http://static1.squarespace.com/static/55c8c068e4b09cb562cdc655/55ca40b3e4b0ffb43cfef9c7/55cb9b96e4b0db8222810630/1439407004936//img.jpg</wp:attachment_url>
+      <link>http://static1.squarespace.com/static/55c8c068e4b09cb562cdc655/55ca40b3e4b0ffb43cfef9c7/55cb9b96e4b0db8222810630/1439407004936//img.jpg</link>
+      <title>attachment-55cb9b96e4b0db8222810630</title>
+      <wp:post_name />
+      <wp:post_type>attachment</wp:post_type>
+      <wp:post_id>19</wp:post_id>
+      <wp:post_parent>18</wp:post_parent>
+      <wp:status>inherit</wp:status>
+      <content:encoded><![CDATA[img-55cb9b96e4b0db8222810630]]></content:encoded>
+      <excerpt:encoded><![CDATA[exc-55cb9b96e4b0db8222810630]]></excerpt:encoded>
+      <pubDate>Wed, 12 Aug 2015 19:16:38 +0000</pubDate>
+      <wp:post_date>2015-08-12 19:16:38</wp:post_date>
+      <wp:post_date_gmt>2015-08-12 19:16:38</wp:post_date_gmt>
+      <dc:creator>peter@rack5.co</dc:creator>
+    </item>
+    <item>
+      <wp:attachment_url>http://static1.squarespace.com/static/55c8c068e4b09cb562cdc655/55ca40b3e4b0ffb43cfef9c7/55cb9b3ce4b0c3bdbb80ba2b/1439406911933//img.png</wp:attachment_url>
+      <link>http://static1.squarespace.com/static/55c8c068e4b09cb562cdc655/55ca40b3e4b0ffb43cfef9c7/55cb9b3ce4b0c3bdbb80ba2b/1439406911933//img.png</link>
+      <title>attachment-55cb9b3ce4b0c3bdbb80ba2b</title>
+      <wp:post_name />
+      <wp:post_type>attachment</wp:post_type>
+      <wp:post_id>20</wp:post_id>
+      <wp:post_parent>18</wp:post_parent>
+      <wp:status>inherit</wp:status>
+      <content:encoded><![CDATA[img-55cb9b3ce4b0c3bdbb80ba2b]]></content:encoded>
+      <excerpt:encoded><![CDATA[exc-55cb9b3ce4b0c3bdbb80ba2b]]></excerpt:encoded>
+      <pubDate>Wed, 12 Aug 2015 19:15:08 +0000</pubDate>
+      <wp:post_date>2015-08-12 19:15:08</wp:post_date>
+      <wp:post_date_gmt>2015-08-12 19:15:08</wp:post_date_gmt>
+      <dc:creator>peter@rack5.co</dc:creator>
+    </item>
+    <item>
+      <title>How to Prevent Common Password Attacks</title>
+      <link>/blog/how-to-prevent-common-password-attacks</link>
+      <content:encoded><![CDATA[<img src="http://static1.squarespace.com/static/55c8c068e4b09cb562cdc655/55ca40b3e4b0ffb43cfef9c7/55cb9ea3e4b0a181217b897a/1439407793523/passwordAttack.jpg" alt=""/>
+  
+
+<p id="yui_3_17_2_4_1439405914286_2066">We all hate passwords. We can't remember them, we can barely trust them, and we frequently mistype them. Unfortunately for all of us living on the internet, we are stuck with password prompts everywhere we turn.
+As internet consuming individuals we can't always guarantee that our passwords won't get compromised, but we do have the power to make ourselves considerably more secure online.</p><p id="yui_3_17_2_4_1439405914286_2069">Here are 5 password hacks that you can be aware of and fix today:</p><h2 id="yui_3_17_2_4_1439405914286_2072"><strong>Brute Force</strong></h2><p id="yui_3_17_2_4_1439405914286_2076">Ever hear someone tell you you need a password that is ridiculously long, must have special characters, numbers, capital and lowercase letters? Yeah, it's annoying. But there is a reason for that.</p><p id="yui_3_17_2_4_1439405914286_2079">When I was a young kid I liked to hide my friend's bicycle around the neighborhood as a good ol' fashioned prank. One day he got a combination lock on his bicycle and I started guessing every combination possible from 000 to 999, one at a time.</p><p id="yui_3_17_2_4_1439405914286_2082">Brute force attacks work in this kind of way. Hackers write special software that can guess thousands of combinations per second, some use dictionary words instead of letters, to crack your password.</p>
+  
+      <img src="http://static1.squarespace.com/static/55c8c068e4b09cb562cdc655/55ca40b3e4b0ffb43cfef9c7/55cb9ee5e4b0f68c5a6f0516/1439407855026//img.jpg" alt=""/>
+  
+
+<p id="yui_3_17_2_4_1439405914286_2090">Simple passwords, like "password" or "123456", are cracked in seconds. When your I.T. company wants you to use a password like "rue8y5+)Cv2=", it is because this password is so long and complex the computer will take several lifetimes in order to crack it.</p><p id="yui_3_17_2_4_1439405914286_2093">Rule of thumb here, the more complex the password, the harder it is to brute force. The biggest problem creating a complex password is the ability to remember it.&nbsp;Psychologically speaking, we are only programmed to easily move about 7 digits or characters from our short term memory to long term memory.</p><h2 id="yui_3_17_2_4_1439405914286_2096"><strong>Password Reuse</strong></h2><p id="yui_3_17_2_4_1439405914286_2100">While you may have a super secure password that can't be brute forced, it also isn't safe to use that password more than once.</p><p id="yui_3_17_2_4_1439405914286_2103">Imagine each website you log into is an old medieval castle. Some castles have moats, guards, and countless other layers of protection operating 24 hours a day. Other castles and villages are more or less abandoned, have big holes in the sides of their walls, etc.</p><p id="yui_3_17_2_4_1439405914286_2106">If you stored the same password in each castle, all a hacker would need to do is break into any castle (probably the least secure one), and use your password wherever you operate online.</p><p id="yui_3_17_2_4_1439405914286_2109">The artists at XKCD made a <a href="https://xkcd.com/792/">humorous little comic</a> about just this.</p><p id="yui_3_17_2_4_1439405914286_2115">Reusing the same password everywhere you go is dangerous. Try to use as many different passwords as possible. Some suggest tiering their passwords, like using a general password for things like Facebook and forums, a more complex password for anywhere you may do online shopping, and a very complex password for high profile websites like bank accounts.</p><h2 id="yui_3_17_2_4_1439405914286_2118"><strong>Phishing</strong></h2><p id="yui_3_17_2_4_1439405914286_2122">Not all password hacking attempts are technical in nature. Some hackers get your sensitive information offline by tricking you into handing it over. In the recent comedy Identity Thief, Melissa McCarthy's character calls Jason Bateman's character over the phone pretending to be the bank needing sensitive information to update his account information. When Jason Bateman gives Melissa McCarthy the information, she is able to run off with his identity.</p><p id="yui_3_17_2_4_1439405914286_2125">This happens all the time. Emails get sent to employees pretending to be IT workers who need passwords to perform routine maintenance, and the ignorant employee forks it over.</p><p id="yui_3_17_2_4_1439405914286_2128">Whenever someone asks you for a password, don't give it to them unless you are 100% sure their request is valid</p><h2 id="yui_3_17_2_4_1439405914286_2131"><strong>Shoulder Surfing</strong></h2><p id="yui_3_17_2_4_1439405914286_2135">One of lowest tech password attacks. A hacker may steal a password by watching you type it. Fortunately, preventing crooks obtaining your password this way is not very difficult.</p>
+  
+      <img src="http://static1.squarespace.com/static/55c8c068e4b09cb562cdc655/55ca40b3e4b0ffb43cfef9c7/55cb9fa0e4b015c5a1b6e933/1439408034318//img.png" alt=""/>
+  
+
+<p id="yui_3_17_2_4_1439405914286_2141">If someone is watching you intently while you use your computer, they may have motives beyond your handsome appearance.</p><p id="yui_3_17_2_4_1439405914286_2144">Try and be mindful of your surroundings in public spaces and most importantly remember however simple this attack is, it can happen to anyone.</p><h2 id="yui_3_17_2_4_1439405914286_2147"><strong>Password Sniffing</strong></h2><p id="yui_3_17_2_4_1439405914286_2151">A common and very effective type of password attack. Computers communicate by sending messages to each other across networks.</p><p id="yui_3_17_2_4_1439405914286_2154">Other computers in the network will typically ignore any messages that are not meant for them. However there is plenty of software out there that makes it possible to display messages that are passing through the network. Including messages with sensitive information such as passwords.</p><p id="yui_3_17_2_4_1439405914286_2157">Networks can use a variety of methods to prevent sniffing. The most common being encrypting the data broadcast across the network (SSL).</p>
+  
+      <a href="http://static1.squarespace.com/static/55c8c068e4b09cb562cdc655/55ca40b3e4b0ffb43cfef9c7/55ca40b7e4b0ffb43cfefa7e/1432722419000/address-bar1-e1432825738151.jpg?format=original" ><img src="http://static1.squarespace.com/static/55c8c068e4b09cb562cdc655/55ca40b3e4b0ffb43cfef9c7/55cba035e4b0362202a29cc2/1439408182227//img.jpg" alt=""/></a>
+  
+
+<p id="yui_3_17_2_4_1439405914286_2163">Virus scanners for all computers on the network might also be used. Sniffing becomes a larger problem the more users a network has, so be especially careful on open public networks such as coffee shops.</p><p id="yui_3_17_2_4_1439405914286_2166">You wouldn’t pass a note to someone with your bank details on it, so think carefully before performing the electronic equivalent. For more useful tips on how to stay secure online <a href="https://rack5.squarespace.com/">join the Key community</a>.</p><p id="yui_3_17_2_4_1439405914286_2174">*Shoulder surfing picture from&nbsp;<a href="http://www.confirmasistemas.es/" target="_blank">www.confirmasistemas.es</a></p>]]></content:encoded>
+      <excerpt:encoded />
+      <wp:post_name>how-to-prevent-common-password-attacks</wp:post_name>
+      <wp:post_type>post</wp:post_type>
+      <wp:post_id>21</wp:post_id>
+      <wp:status>publish</wp:status>
+      <pubDate>Sat, 30 May 2015 08:42:15 +0000</pubDate>
+      <wp:post_date>2015-05-30 08:42:15</wp:post_date>
+      <wp:post_date_gmt>2015-05-30 08:42:15</wp:post_date_gmt>
+      <category domain="category" nicename="security"><![CDATA[Security]]></category>
+      <dc:creator>peter@rack5.co</dc:creator>
+      <wp:comment_status>open</wp:comment_status>
+    </item>
+    <item>
+      <wp:attachment_url>http://static1.squarespace.com/static/55c8c068e4b09cb562cdc655/55ca40b3e4b0ffb43cfef9c7/55cba035e4b0362202a29cc2/1439408182227//img.jpg</wp:attachment_url>
+      <link>http://static1.squarespace.com/static/55c8c068e4b09cb562cdc655/55ca40b3e4b0ffb43cfef9c7/55cba035e4b0362202a29cc2/1439408182227//img.jpg</link>
+      <title>attachment-55cba035e4b0362202a29cc2</title>
+      <wp:post_name />
+      <wp:post_type>attachment</wp:post_type>
+      <wp:post_id>22</wp:post_id>
+      <wp:post_parent>21</wp:post_parent>
+      <wp:status>inherit</wp:status>
+      <content:encoded><![CDATA[img-55cba035e4b0362202a29cc2]]></content:encoded>
+      <excerpt:encoded><![CDATA[exc-55cba035e4b0362202a29cc2]]></excerpt:encoded>
+      <pubDate>Wed, 12 Aug 2015 19:36:21 +0000</pubDate>
+      <wp:post_date>2015-08-12 19:36:21</wp:post_date>
+      <wp:post_date_gmt>2015-08-12 19:36:21</wp:post_date_gmt>
+      <dc:creator>peter@rack5.co</dc:creator>
+    </item>
+    <item>
+      <wp:attachment_url>http://static1.squarespace.com/static/55c8c068e4b09cb562cdc655/55ca40b3e4b0ffb43cfef9c7/55cb9fa0e4b015c5a1b6e933/1439408034318//img.png</wp:attachment_url>
+      <link>http://static1.squarespace.com/static/55c8c068e4b09cb562cdc655/55ca40b3e4b0ffb43cfef9c7/55cb9fa0e4b015c5a1b6e933/1439408034318//img.png</link>
+      <title>attachment-55cb9fa0e4b015c5a1b6e933</title>
+      <wp:post_name />
+      <wp:post_type>attachment</wp:post_type>
+      <wp:post_id>23</wp:post_id>
+      <wp:post_parent>21</wp:post_parent>
+      <wp:status>inherit</wp:status>
+      <content:encoded><![CDATA[img-55cb9fa0e4b015c5a1b6e933]]></content:encoded>
+      <excerpt:encoded><![CDATA[exc-55cb9fa0e4b015c5a1b6e933]]></excerpt:encoded>
+      <pubDate>Wed, 12 Aug 2015 19:33:52 +0000</pubDate>
+      <wp:post_date>2015-08-12 19:33:52</wp:post_date>
+      <wp:post_date_gmt>2015-08-12 19:33:52</wp:post_date_gmt>
+      <dc:creator>peter@rack5.co</dc:creator>
+    </item>
+    <item>
+      <wp:attachment_url>http://static1.squarespace.com/static/55c8c068e4b09cb562cdc655/55ca40b3e4b0ffb43cfef9c7/55cb9ee5e4b0f68c5a6f0516/1439407855026//img.jpg</wp:attachment_url>
+      <link>http://static1.squarespace.com/static/55c8c068e4b09cb562cdc655/55ca40b3e4b0ffb43cfef9c7/55cb9ee5e4b0f68c5a6f0516/1439407855026//img.jpg</link>
+      <title>attachment-55cb9ee5e4b0f68c5a6f0516</title>
+      <wp:post_name />
+      <wp:post_type>attachment</wp:post_type>
+      <wp:post_id>24</wp:post_id>
+      <wp:post_parent>21</wp:post_parent>
+      <wp:status>inherit</wp:status>
+      <content:encoded><![CDATA[img-55cb9ee5e4b0f68c5a6f0516]]></content:encoded>
+      <excerpt:encoded><![CDATA[exc-55cb9ee5e4b0f68c5a6f0516]]></excerpt:encoded>
+      <pubDate>Wed, 12 Aug 2015 19:30:45 +0000</pubDate>
+      <wp:post_date>2015-08-12 19:30:45</wp:post_date>
+      <wp:post_date_gmt>2015-08-12 19:30:45</wp:post_date_gmt>
+      <dc:creator>peter@rack5.co</dc:creator>
+    </item>
+    <item>
+      <wp:attachment_url>http://static1.squarespace.com/static/55c8c068e4b09cb562cdc655/55ca40b3e4b0ffb43cfef9c7/55cb9ea3e4b0a181217b897a/1439407793523/passwordAttack.jpg</wp:attachment_url>
+      <link>http://static1.squarespace.com/static/55c8c068e4b09cb562cdc655/55ca40b3e4b0ffb43cfef9c7/55cb9ea3e4b0a181217b897a/1439407793523/passwordAttack.jpg</link>
+      <title>attachment-55cb9ea3e4b0a181217b897a</title>
+      <wp:post_name>passwordAttack-jpg</wp:post_name>
+      <wp:post_type>attachment</wp:post_type>
+      <wp:post_id>25</wp:post_id>
+      <wp:post_parent>21</wp:post_parent>
+      <wp:status>inherit</wp:status>
+      <content:encoded><![CDATA[img-55cb9ea3e4b0a181217b897a]]></content:encoded>
+      <excerpt:encoded><![CDATA[exc-55cb9ea3e4b0a181217b897a]]></excerpt:encoded>
+      <pubDate>Wed, 12 Aug 2015 19:29:39 +0000</pubDate>
+      <wp:post_date>2015-08-12 19:29:39</wp:post_date>
+      <wp:post_date_gmt>2015-08-12 19:29:39</wp:post_date_gmt>
+      <dc:creator>peter@rack5.co</dc:creator>
+    </item>
+    <item>
+      <title>What's in a Name?</title>
+      <link>/blog/whats-in-a-name</link>
+      <content:encoded><![CDATA[<p>“I’m working on Key” always sounded more natural to us than “I'm working at Key”.</p><p>“Key” was always our product name but never how we identified ourselves here. We struggled to come up with a group identity for ourselves. We publicly tried:&nbsp;</p><p><strong>“Key”</strong>&nbsp;— Even we were even getting confused between the company and product.&nbsp;<br /><strong>“KeyAuth”</strong>&nbsp;— available as a .com, but didn’t flow off our tongues.<br /><strong>“Key Authentication”</strong>&nbsp;— Apologies to the people we met at Collision!<br /><strong>“Marcano Ventures LLC”</strong>&nbsp;— I needed to register a company name with the state... this was a solid placeholder.</p><p>No matter what we said, it didn’t <em>feel</em>&nbsp;right. We didn't know how to address our company.</p><p>Recently I stumbled across <a href="https://www.youtube.com/watch?v=W8_Kfjo3VjU">a video</a>&nbsp;I used to love and laugh at years ago. While watching it (around the 5:10 mark), my ears heard a name that resonated with me, “Rack5”. I threw the idea at our team. As a whole, we love it. It rolls off our tongues. It unifies us. It shows our nerdy side. It shows we aren’t just a one-trick pony stereotypical tech startup.</p><p>We like it and we hope you do too. We’re currently migrating our email, social media, and website accounts from keyauth.com to rack5.co. Look for us here at rack5.co and we ask to please be a bit patient with us as we make these changes.</p><p>Sincerely,<br />Rack5.</p>]]></content:encoded>
+      <excerpt:encoded />
+      <wp:post_name>whats-in-a-name</wp:post_name>
+      <wp:post_type>post</wp:post_type>
+      <wp:post_id>26</wp:post_id>
+      <wp:status>publish</wp:status>
+      <pubDate>Wed, 02 Sep 2015 17:49:29 +0000</pubDate>
+      <wp:post_date>2015-09-02 17:49:29</wp:post_date>
+      <wp:post_date_gmt>2015-09-02 17:49:29</wp:post_date_gmt>
+      <category domain="category" nicename="building-rack5"><![CDATA[Building Rack5]]></category>
+      <dc:creator>peter@rack5.co</dc:creator>
+      <wp:comment_status>open</wp:comment_status>
+    </item>
+    <item>
+      <title>Key Update: Doubling Down on Security</title>
+      <link>/blog/update-doubling-down-on-security</link>
+      <content:encoded><![CDATA[<p>A couple months ago we started thinking about ways we could make sure Key was more secure. Our challenge was making sure the security didn't get in the way of productivity.&nbsp;</p><p>So we got together, and brainstormed some awesome features to keep you protected.&nbsp;</p><p>Today, we’re really excited to show them to you! Let’s cut straight to it.</p><h2><strong>Bouncer</strong></h2><p>Every so often somebody asks me “What if someone takes my phone?” I was embarrassed responding with: “That person would need to take your computer too?”</p><p>While the situation is unlikely, it is possible someone leaves the two on a desk together.</p><p>We thought the problem through and through and designed a few solutions. Obviously, we decided to go with the most intuitive one.&nbsp;</p><p>We are calling it “Bouncer”. If you have ever unlocked your iPhone before, you already know how to use it.</p><p>When you turn on Bouncer, Key will check your fingerprint or lock screen pin to unlock your Mac. This virtually guarantees that if someone else picks up your phone, they can't log in as you.</p><p>Bouncer will always let you out and lock up, but to get back in, you’re gonna need to show some ID!</p><p>Enabling it is as simple as going through the “More” menu, and we made up <a target="_blank" href="http://www.rack5.co/docs/key-for-iphone/">some docs</a> to help you if you need it.</p><h2><strong>Verified Device</strong></h2><p>Not to scare you, but there are some people out there that like to hack other individuals. There is one kind of attack called a “Man-in-the-Middle Attack”.&nbsp;</p><p>During this attack, someone could <strong>theoretically</strong> collect the data your phone transmits. Then they would relay it later and forcing your computer to unlock... no bueno!</p><p>We didn’t like the idea of this being possible. We decided to lock it down with a simple account to verify your phone. Every second, your phone will send out a unique message which your computer uses to verify it. If a hacker steals this message, it won’t be usable the next second.</p><p>Logging into your Key account is easy, when you start Key after the update, Key will ask you for your phone number. Key will then send a 6 digit confirmation number via Text that you will use to verify your device.</p><p>You’ll only have to do it once, and it will make sure the only people unlocking your computer is you.</p><h2><strong>More Info</strong></h2><p>Apple added extra security measures to their latest operating system “El Capitan”(OS X 10.11). Part of these changes interfered with Key for Mac’s auto updater.</p><p>If you are using El Capitan, you’ll have to download Key again from this website. We are really sorry for this. We don’t like giving you extra steps, but we promise it will never happen again!</p><p>If you aren’t on El Capitan yet, you have nothing to worry about! Just run the <em>Check for Update</em> command and Key will be update faster than you can say 'One Mississippi…'*</p><p><em>*We haven't quite tested that... but it's probably close.</em></p><h2><strong>Download Key Today!</strong></h2><p>If you aren’t a Key user yet, go <a target="_blank" href="http://www.rack5.co/download/">download Key</a> to get started! We've been told its the easiest security software ever used!&nbsp;</p><p>If you have any questions or would like to chat, send an email over to hello@rack5.co! We're quite friendly!</p>]]></content:encoded>
+      <excerpt:encoded />
+      <wp:post_name>update-doubling-down-on-security</wp:post_name>
+      <wp:post_type>post</wp:post_type>
+      <wp:post_id>27</wp:post_id>
+      <wp:status>publish</wp:status>
+      <pubDate>Fri, 20 Nov 2015 22:07:22 +0000</pubDate>
+      <wp:post_date>2015-11-20 22:07:22</wp:post_date>
+      <wp:post_date_gmt>2015-11-20 22:07:22</wp:post_date_gmt>
+      <dc:creator>peter@rack5.co</dc:creator>
+      <wp:comment_status>open</wp:comment_status>
+    </item>
+    <item>
+      <title>Get Shit Done with OmniFocus</title>
+      <link>/blog/get-shit-done-with-omnifocus</link>
+      <content:encoded><![CDATA[<h2>Preface</h2><p>I, like most people on this planet, find myself overwhelmed time and time again.&nbsp;&nbsp;I usually have too much on my mind, feel like I am juggling an array of projects, and can't keep track my own mind.</p><p>Needless to say, I become a deer in headlights when shit hits the fan.</p><p>About a month ago I began seeking a system to follow so I could get shit done.</p><p>I opened the Blinkist app on my phone and read a "blink" of David Allen's "Getting Things Done" (GTD).&nbsp;</p><p>GTD is a good system on it's own, but what brings it to life (in my opinion)&nbsp;is the Mac, iPhone, and iPad app called <em>OmniFocus</em>.</p><p>You can find OmniFocus in the App Store [[PUT LINK HERE]] and Mac App Store[[PUT LINK HERE]].</p><p>I don't feel as if I've perfected it yet, but I am beginning to clear my head and knock down tasks one at a time.</p><h2>Clear your head.</h2><p>The first goal in GTD is to do a "Brain Dump". "Brain Dumps" are a 20-30 minute exercise in writing down everything you have to do. At first, you'll surface just the obvious tasks.&nbsp;After 3-5 minutes, everything floating around your subconcious will appear in your inbox task list. I schedule a recurring "Brain Dump" every Sunday, but find myself doing them more often.</p><p>The best part of this process is that I found myself no longer mentally keeping track of all these tasks in my day to day. They are now out of my head and into a system. I think my sleep has already improved.</p><h2>Create projects</h2><p>After I dumped these tasks from my head to the inbox, I go through and determine if I need to create a project or add it to an existing project.</p><p>OmniFocus has an interesting way of dealing with projects. Projects can either be <strong>Parallel</strong>,&nbsp;<strong>Sequential</strong>, or <strong>Single Actions.</strong></p><p><strong>Parallel</strong>&nbsp;projects are a group of tasks that all need completion in order for the project to finish.</p><p><strong>Sequential</strong>&nbsp;tasks need to be completed in a specific order.</p><p><strong>Single Actions</strong>&nbsp;are not related, but rather a convenient way to group the tasks. My household chores are a good example of this.</p><h2>Create contexts.</h2><p>Contexts are unique to OmniFocus. Contexts ask you "What do you need outside of this task to complete it". The most common way I use Contexts are to add a Person, Place, or Thing that I need to complete the task.<br /><br />If I have to write someone an email, I may use the context "Email". When I open my email, I can spin up the "Email" context and find the tasks I can accomplish while my email is open.&nbsp;</p><p>If I need to ask my Landlord about my deposit, I'll use the context "Landlord". Next time I plan to see my landlord, I can open "Landlord" context and find everything I've been meaning to ask him.</p><p>If I need to add items to my grocery list, I'll use the context "Grocery Store". When I am at the grocery store, I open up the grocery store context and start collecting the items I need.</p><p>While contexts aren't necissary, if you develop a habit of using contexts, you'll find yourself better organized.</p><h2>Break down tasks.</h2><ul style="margin-left:40px"><li>Email Landlord about deposit.</li><li>Build Key for Windows.</li></ul><p>These are two tasks that I had previously dumped in my inbox.&nbsp;One of these tasks can be completed in one action, an email. The other was too complex for to be completed in one sit down, so I decided to break down the tasks. [[Insert Image]]</p><p>I've learned that breaking down tasks to quick actionable subtasks helps motivate me. I'm not presented with eating the entire elephant, just the next bite.</p><p>You can do this within a project, or convert a task to a project itself.</p><p>[[Show turning into a project or a sub project]]</p><h2>Assign due dates.</h2><p>Since I have broken tasks and projects into sub projects, I use due dates to plan my todos for the week. Projects usually have some kind of deadline. Whether you are flexible with them or not, it's good to plan when you're going to take the next bite of the elephant.</p><p>On the right hand side of the task lives the due date. OmniFocus turns it yellow when the due date is approaching, and red when overdue.</p><p>Due dates help create a sense of urgency in the tasks. If they're broken down properly, they can be crushed in no time!</p><h2>Get to work.</h2><p>You don't have to use OmniFocus to get the benefits of GTD but, like most good software, it helps.</p><p>Get started by doing a brain dump and writing out everything you need to do. Organize the tasks, break them up, and tell yourself when you will do them.</p><p>If done right, you'll find yourself worrying less about what you have to do and focusing on how to do it.</p><p>Even David Allen tells people they will fall off the GTD horse, but like msot things, you just have to get back on.</p><h2>Bonus tip: Get the day started.</h2><p>I picked this tip up from Josh Pigford over a Baremetrics [Link], and it helps me get my day started. Every day by 8am I try to make sure my inbox, email, trello, and calendar are all reviewed and cleared. After that, I review my projects, make sure they have a next action, and then make sure I've given them appropriate due dates so I know what I am accomplishing today. I recommend setting yourself up with a little morning routine as well.</p><p>Technology shouldn't get in your way.&nbsp;It should empower you to do things that were previously more difficult. When software isn't reliable, intuitve, or empowering, we find ourselves with more work. These are a few of our guiding principles at Rack5 and we think about them while we make Key. If you want to focus less on managing software and more on getting things done, let Key start you off on the right foot!</p>]]></content:encoded>
+      <excerpt:encoded />
+      <wp:post_name>get-shit-done-with-omnifocus</wp:post_name>
+      <wp:post_type>post</wp:post_type>
+      <wp:post_id>28</wp:post_id>
+      <wp:status>draft</wp:status>
+      <pubDate>Fri, 11 Sep 2015 14:39:30 +0000</pubDate>
+      <wp:post_date>2015-09-11 14:39:30</wp:post_date>
+      <wp:post_date_gmt>2015-09-11 14:39:30</wp:post_date_gmt>
+      <category domain="post_tag" nicename="app-deep-dive"><![CDATA[App Deep Dive]]></category>
+      <dc:creator>peter@rack5.co</dc:creator>
+      <wp:comment_status>open</wp:comment_status>
+    </item>
+    <item>
+      <link>/download-key-iphone/</link>
+      <title>Key for iPhone</title>
+      <pubDate>Fri, 16 Oct 2015 12:15:02 +0000</pubDate>
+      <content:encoded><![CDATA[<h1 class="text-align-center">Key for iPhone</h1>
+  
+      <img src="https://static1.squarespace.com/static/55c8c068e4b09cb562cdc655/t/561c11a8e4b0440e20b146d1/1444680105646/iPhoneDownload.png?format=original" alt=""/>
+  
+
+
+  
+      <a href="https://itunes.apple.com/us/app/key-life-without-passwords/id985993364" ><img src="https://static1.squarespace.com/static/55c8c068e4b09cb562cdc655/t/56149b82e4b0996f78a0b264/1444191107181/?format=original" alt=""/></a>
+  
+
+<h2 id="compatibility">Compatibility</h2>
+
+<p><em>iOS 8 or Later</em></p>
+
+<ul>
+<li>iPhone 4S</li>
+<li>iPhone 5</li>
+<li>iPhone 5C</li>
+<li>iPhone 5S</li>
+<li>iPhone 6 (Plus)</li>
+<li>iPhone 6s (Plus)</li>
+</ul>]]></content:encoded>
+      <wp:post_name>download-key-iphone</wp:post_name>
+      <wp:post_type>page</wp:post_type>
+      <wp:post_id>29</wp:post_id>
+      <wp:status>publish</wp:status>
+    </item>
+    <item>
+      <link>/key-for-mac/</link>
+      <title>Key for Mac</title>
+      <pubDate>Wed, 20 Apr 2016 19:49:19 +0000</pubDate>
+      <content:encoded><![CDATA[<h1 class="text-align-center">Key for Mac</h1>
+  
+      <img src="https://static1.squarespace.com/static/55c8c068e4b09cb562cdc655/t/561c0eeee4b0c7d46ef04e0c/1444679408195/?format=original" alt=""/>
+  
+
+
+<div class="sqs-block-button-container--center">
+	<a href="https://release.keyauth.com/app/Key.zip" class="sqs-block-button-element--large sqs-block-button-element" >Download</a>
+</div><h2 id="compatibility">Compatibility</h2>
+
+<p><em>OS X 10.10 (Yosemite) or newer</em></p>
+
+<ul>
+<li>iMac late 2012 or newer</li>
+<li>MacBook 2015</li>
+<li>MacBook Air 2011 or newer</li>
+<li>MacBook Pro 2012 or newer</li>
+<li>Mac mini 2011 or newer</li>
+<li>Mac Pro late 2013 or newer</li>
+</ul>]]></content:encoded>
+      <wp:post_name>key-for-mac</wp:post_name>
+      <wp:post_type>page</wp:post_type>
+      <wp:post_id>30</wp:post_id>
+      <wp:status>publish</wp:status>
+    </item>
+    <item>
+      <link>/docs/overview/</link>
+      <title>Overview</title>
+      <pubDate>Sun, 22 Nov 2015 02:54:13 +0000</pubDate>
+      <content:encoded><![CDATA[<h2>Getting Started with Key</h2><p>Passwords are impossible to remember. You have to change them all the time. You know you need to protect things but you also just need to get through your day.&nbsp;</p><p>We want to make managing your logins easier and more secure than you can possibly imagine.</p><hr /><h3>Locking &amp; Unlocking</h3><p>Have you ever worked in a shared office and didn't quite know everyone around you? A quick trip to the bathroom leaves whatever your working on vulnerable to someone who probably shouldn't see it.</p><p>Key uses the Bluetooth signal on your phone to inform your computer when you are approaching or leaving.&nbsp;Your computer uses this signal to unlock and lock itself accordingly.</p><p>Wondering eyes problem solved.&nbsp;Pretty nifty, eh?</p><p>Locking and unlocking your laptop is just the beginning.&nbsp;We're working to log you into websites and more life without any extra effort from you!</p><hr /><p>Whether you're already using Key or just thinking about it, poking around these docs can get you up to speed. Use the navigation on the left and enjoy!</p>]]></content:encoded>
+      <wp:post_name>docs/overview</wp:post_name>
+      <wp:post_type>page</wp:post_type>
+      <wp:post_id>31</wp:post_id>
+      <wp:status>publish</wp:status>
+    </item>
+    <item>
+      <link>/docs/account/</link>
+      <title>Account</title>
+      <pubDate>Tue, 10 Nov 2015 21:42:42 +0000</pubDate>
+      <content:encoded><![CDATA[<h1>Your Account</h1><h3>SIGNING UP / IN</h3><p>Sign up, sign in, same thing.&nbsp;</p><p>With Key, you’ll use a neat service called Digits to sign in. Signing in is simple.&nbsp;Provide your phone number and Digits will text you a 6 digit confirmation code that you’ll sign in with.</p><p>For more info on Digits, head over to <a href="http://www.digits.com">www.digits.com</a>. We’re committed to removing passwords from your life.&nbsp;We aren't going to give you another with Key.</p><hr /><h3>ADDING EXTRA SECURITY</h3><p>If you’re worried your phone number isn’t enough to protect your account, you can beef up your login!</p><p>Head over to <a href="http://www.digits.com">Digits’ website</a> and click "Manage Account" at the top right-hand side of the page. After logging in, you can enable <strong>2-step verification</strong>.</p>
+  
+      <img src="https://static1.squarespace.com/static/55c8c068e4b09cb562cdc655/t/56426447e4b0c680c28edf99/1447191637927/?format=original" alt=""/>
+  
+
+<p id="yui_3_17_2_6_1447191276312_5290">Now, whenever you log into Key,&nbsp;you will need your phone (to receive the confirmation code) and a 4 digit pin that you’ve memorized. It’s unlikely someone will get through that!</p><hr /><h3>CHANGING PHONE NUMBERS</h3><p>If you’re anticipating changing phone numbers, Digits can help you out. Log into Digits' website and change your phone number.</p><p>Digits also allows you to provide your email in case you lose your phone. In your digits account you should add an email address just in case you need to switch numbers.</p><hr /><p>Whether you're already using Key or just thinking about it, poking around these docs can get you up to speed. Use the navigation on the left and enjoy!</p>]]></content:encoded>
+      <wp:post_name>docs/account</wp:post_name>
+      <wp:post_type>page</wp:post_type>
+      <wp:post_id>32</wp:post_id>
+      <wp:status>publish</wp:status>
+    </item>
+    <item>
+      <link>/docs/key-for-mac/</link>
+      <title>Key for Mac</title>
+      <pubDate>Wed, 11 Nov 2015 17:51:18 +0000</pubDate>
+      <content:encoded><![CDATA[<h1>Key for Mac</h1>
+<div class="sqs-block-button-container--left">
+	<a href="http://release.keyauth.com/app/Key.zip" class="sqs-block-button-element--large sqs-block-button-element" target="_blank">Download</a>
+</div><h3 id="yui_3_17_2_3_1447264179503_8005">DISABLING KEY</h3><p>The other day I had let a friend use my laptop for about 20 minutes to book some movie tickets. During that time, I needed to make sure Key didn’t lock my computer as I walked away.</p><p>I went into Key's <strong>Menu Bar &gt; Disable</strong>. Just like that, Key didn’t lock or unlock while my friend was using it. When I got My laptop back, I followed the same procedure to Enable Key.</p><hr /><h3>CALIBRATING KEY</h3><p>Key measures distance based on the strength of your Bluetooth connection. Sometimes, things get between your phone and laptop.&nbsp;Depending on the material,&nbsp;this may affect the connection strength and make Key misbehave.&nbsp;</p><p>The other day I was sitting at a metal desk with my phone in my pocket.&nbsp;As far as bluetooth connections go,&nbsp;I could have been a room away.</p><p>I calibrated Key by going into Key's <strong>Menu Bar &gt; More &gt; Calibrate</strong>.&nbsp;Key calibrated over the course of 10 seconds and behaved normally again.&nbsp;</p>
+  
+      <img src="https://static1.squarespace.com/static/55c8c068e4b09cb562cdc655/t/56426328e4b0b0751fde2891/1447191341308/?format=original" alt=""/>
+  
+
+<p id="yui_3_17_2_3_1447191276312_9093">We will continue working to make sure these things don't need as much tinkering and just work.</p><hr /><h3>CHECK FOR UPDATES</h3><p>When updates come around, Key will ask you if you'd like to update. We recommend saying yes. In fact, you can opt in to update automatically. We sure do.</p><hr /><h3 id="yui_3_17_2_11_1446757125482_13876">Compatibility</h3>
+  
+       [caption id="" align="alignnone" width="750.0"]<img src="https://static1.squarespace.com/static/55c8c068e4b09cb562cdc655/t/563bce32e4b0db68ead35a0e/1446759986700/1444679408195.png?format=original" alt="OS X 10.10 (Yosemite) or newer"/> OS X 10.10 (Yosemite) or newer[/caption] 
+  
+
+<ul><li>iMac late 2012 or newer</li><li>MacBook 2015</li><li>MacBook Air 2011 or newer</li><li>MacBook Pro 2012 or newer</li><li>Mac mini 2011 or newer</li><li>Mac Pro late 2013 or newer</li></ul><p>If your Mac doesn't match one of these above, you can pick up a <a href="http://www.amazon.com/gp/product/B007GFX0PY/ref=oh_aui_detailpage_o02_s00?ie=UTF8&amp;psc=1">USB Dongle</a>&nbsp;from Amazon that will give your computer Bluetooth Low Energy capabilities.</p><hr /><p>Whether you're already using Key or just thinking about it, poking around these docs can get you up to speed. Use the navigation on the left and enjoy!</p>]]></content:encoded>
+      <wp:post_name>docs/key-for-mac</wp:post_name>
+      <wp:post_type>page</wp:post_type>
+      <wp:post_id>33</wp:post_id>
+      <wp:status>publish</wp:status>
+    </item>
+    <item>
+      <link>/docs/key-for-iphone/</link>
+      <title>Key for iPhone</title>
+      <pubDate>Tue, 10 Nov 2015 21:54:37 +0000</pubDate>
+      <content:encoded><![CDATA[<h1>Key for iPhone</h1>
+  
+      <a href="https://itunes.apple.com/us/app/key-life-without-passwords/id985993364" ><img src="https://static1.squarespace.com/static/55c8c068e4b09cb562cdc655/t/563bce6ee4b0db68ead35c94/1446760047015/?format=original" alt=""/></a>
+  
+
+&nbsp;<p>On your phone, Key broadcasts a unique signal using Bluetooth Low Energy to show computers it’s presence.</p><p>When your phone approaches your Mac, your Mac magically unlocks. When your phone leaves, your Mac locks up.</p><hr /><h3>BOUNCER</h3>
+  
+      <img src="https://static1.squarespace.com/static/55c8c068e4b09cb562cdc655/t/5642671fe4b0c2d5ac140ca0/1447192361739/?format=original" alt=""/>
+  
+
+<p id="yui_3_17_2_4_1447192301627_16945">"What if someone else gets my phone?" - A question asked by many.</p><p id="yui_3_17_2_4_1447192301627_16895">Well, we hired&nbsp;our buddy,&nbsp;Bouncer! And Bouncer&nbsp;needs to check your I.D.! He won’t let you in without it!&nbsp;</p><p id="yui_3_17_2_4_1447192301627_16896">When you turn on&nbsp;Bouncer, Key&nbsp;checks your fingerprint or&nbsp;lock screen pin to before&nbsp;unlocking your Mac. This virtually guarantees that if someone else picks up your phone, they can't log in as you.</p><p id="yui_3_17_2_4_1447192301627_16946">Bouncer will always let you out and lock up, but&nbsp;to get back in,&nbsp;you’re gonna need to show some ID!</p><p id="yui_3_17_2_4_1447192301627_16947">To enable Bouncer, tap<strong>&nbsp;"More" then "Turn on Bouncer"</strong>.</p><hr /><h3>LOGOUT</h3><p>If you decide you no longer want Key to work on your device, simply log out. Logging out will remove your device from your Key account and remove any sensitive data. Just hit <strong>More &gt; Logout.</strong></p><hr /><h3 id="yui_3_17_2_7_1446757125482_10311">COMPATIBILITY</h3><p id="yui_3_17_2_7_1446757125482_11772">Key works for most iPhones, but take a glance at the list below to double check.</p>
+  
+       [caption id="" align="alignnone" width="750.0"]<img src="https://static1.squarespace.com/static/55c8c068e4b09cb562cdc655/t/563bcdb7e4b0db68ead35423/1446759863989/iPhoneDownload.png?format=original" alt="iOS 8 or Later"/> iOS 8 or Later[/caption] 
+  
+
+<ul><li>iPhone 4S</li><li>iPhone 5</li><li>iPhone 5C</li><li>iPhone 5S</li><li>iPhone 6 (Plus)</li><li>iPhone 6s (Plus)</li></ul><hr /><p>Whether you're already using Key or just thinking about it, poking around these docs can get you up to speed. Use the navigation on the left and enjoy!</p>]]></content:encoded>
+      <wp:post_name>docs/key-for-iphone</wp:post_name>
+      <wp:post_type>page</wp:post_type>
+      <wp:post_id>34</wp:post_id>
+      <wp:status>publish</wp:status>
+    </item>
+    <item>
+      <link>/docs/troubleshooting/</link>
+      <title>Troubleshooting</title>
+      <pubDate>Thu, 05 Nov 2015 22:40:27 +0000</pubDate>
+      <content:encoded><![CDATA[<h1>Troubleshooting</h1><p>App gremlins exist. We've seen them. They cause random errors, crashes,&nbsp;or make things look and feel funny.</p><p>It's pretty safe to say Key isn't immune to these gremlins. Thankfully, we have a few things that worked for us to get rid of them.</p><p>We recommend:</p><ol><li><strong>Close or Quit the app.</strong> On your Mac, in the menu bar click the Key icon, and click quit at the bottom. On your iPhone, simply double-click the home button and swipe the app up. Open the app back up to see if your problem is solved.</li><li><strong>Logout, then Log in.</strong>&nbsp;Your data is safe with us, so you likely won't lose anything... but logging out cleans the settings and will give you a nice fresh start when you log back in.</li><li><strong><a target="_blank" href="https://www.youtube.com/watch?v=p85xwZ_OLX0">"Have you tried turning it off and on again?"</a></strong>&nbsp;We may hate that question but even experienced IT professionals have been amazed over the magic of a quick reboot. Give it a go and see if your problem continues.</li><li><strong>Email Us.&nbsp;</strong>We're friendly people and hate when things don't behave as much as you do. Shoot us an email at support@rack5.co and we will be sure to help you out as soon as possible. Any info you can give us can help us help you!</li></ol><hr /><p>Whether you're already using Key or just thinking about it, poking around these docs can get you up to speed. Use the navigation on the left and enjoy!</p>]]></content:encoded>
+      <wp:post_name>docs/troubleshooting</wp:post_name>
+      <wp:post_type>page</wp:post_type>
+      <wp:post_id>35</wp:post_id>
+      <wp:status>publish</wp:status>
+    </item>
+  </channel>
+</rss>
+

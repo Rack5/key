@@ -1,12 +1,11 @@
 ---
 layout: default
+title: Effortless device security
 ---
-# <b>Key</b> by rack5
+# <b>Key</b> by Rack5
 
-## Ipsum feugiat lorem tempus<br />adipiscing sed nullam
+## Who is looking at your screen?
 
-Phasellus amet dignissim malesuada lorem vitae. Fusce amet lectus
-tempor amet vulputate et proin ultrices etiam odio elementum lorem
-malesuada sem mollis elementum feugiat lorem.
+Key is the easiest way to lock and unlock your Mac. Put your iPhone in your pocket and walk away. It's incredibly simple, secure, and only takes a second to get started.
 
 {% include cta.html %}
