@@ -17,8 +17,8 @@ title: Key by Rack5
 email: peter@keyauth.com
 description: > # this means to ignore newlines until "baseurl:"
   The easiest way to lock and unlock your Mac. Put your iPhone in your pocket and walk away.
-baseurl: "/key" # the subpath of your site, e.g. /blog
-url: "http://rack5.co/" # the base hostname & protocol for your site, e.g. http://example.com
+baseurl: "" # the subpath of your site, e.g. /blog
+url: "http://keyauth.com/" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: keyauth
 facebook_username: keyauth
 github_username:  rack5
