@@ -3,7 +3,7 @@
       Download
   {% endcomment %}
 
-  {% unless page.title == "Download" %}<li><a href="/download.html" class="button special icon fa-arrow-down">Download</a></li>{% endunless %}
+  {% unless page.title == "Download" %}<li><a href="{{ "/download.html" | prepend: site.baseurl}}" class="button special icon fa-arrow-down">Download</a></li>{% endunless %}
   {% if page.title == "Download" %}<li><a href="https://release.keyauth.com/app/Key.zip" class="button special icon fa-arrow-down">macOS</a></li>{% endif %}
   {% if page.title == "Download" %}<li><a href="https://itunes.apple.com/us/app/key-life-without-passwords/id985993364" target="_blank" class="button special icon fa-arrow-down">iPhone</a></li>{% endif %}
 
@@ -13,7 +13,7 @@
       Learn More
   {% endcomment %}
 
-  {% unless page.title == "Learn More" or page.title == "Download" %}<li><a href="/learn-more.html" class="button">Not convinced? Learn More</a></li>{% endunless %}
+  {% unless page.title == "Learn More" or page.title == "Download" %}<li><a href="{{ "/learn-more.html" | prepend: site.baseurl }}" class="button">Not convinced? Learn More</a></li>{% endunless %}
   {% if page.title == "Learn More" %}<li><a href="https://www.youtube.com/watch?v=mCaYiPM6ZK8" class="button">Watch Video</a></li>{% endif %}
 
 </ul>

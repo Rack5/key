@@ -1,6 +1,7 @@
 ---
 layout: default
 title: Learn More
+permalink: /learn-more/
 ---
 # [<b>&larr;Go</b>back](/index.html)
 
