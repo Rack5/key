@@ -3,7 +3,7 @@ layout: post
 title: Viva Las Vegas!
 permalink: /viva-las-vegas/
 ---
-![](/images/vegas-header.png)
+![]({{ "/images/vegas-header.png" | prepend: site.baseurl }})
 
 We love building tools to help people log in without needing to remember passwords. We also love showing it off whenever we can! We at “Team Key” exhibited Key at the Collision Conference in Las Vegas a few weeks ago, and yes, it was exactly as amazing as it sounds! What a conference! We got a huge rush from meeting people and hearing about their innovative products/ideas. Aside from the attendees, we were thrilled to meet some speakers and investors as well! Many of the talks were amazing, but we were completely blown away by [David McCandless](http://www.ted.com/talks/david_mccandless_the_beauty_of_data_visualization?language=en) on the Builder's Stage. We purchased his book after right after the event.
 
@@ -22,4 +22,4 @@ We're excited to build relationships with other attendees we met at the conferen
 
 Hope your Collision was just as good as ours!
 
-![Key Team](/images/key-team.jpg)
+![Key Team]({{ "/images/key-team.jpg" | prepend: site.baseurl}})

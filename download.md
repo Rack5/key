@@ -1,8 +1,9 @@
 ---
 layout: default
 title: Download
+permalink: /download/
 ---
-# [<b>&larr;Go</b> back](/index.html)
+# [<b>&larr;Go</b> back]({{ "/" | prepend: site.baseurl}})
 
 ## Key is waiting for you
 

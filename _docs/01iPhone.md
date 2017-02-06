@@ -3,7 +3,7 @@ layout: docs
 title: Key for iPhone
 permalink: /docs/iphone/
 ---
-[![Find at the app store](/images/appstore.jpg)](https://itunes.apple.com/us/app/key-life-without-passwords/id985993364){:target="blank"}
+[![Find at the app store]({{"/images/appstore.jpg" | prepend: site.baseurl}})](https://itunes.apple.com/us/app/key-life-without-passwords/id985993364){:target="blank"}
 
 On your phone, Key broadcasts a unique signal using Bluetooth Low Energy to show computers it’s presence.
 
@@ -13,7 +13,7 @@ When your phone approaches your Mac, your Mac magically unlocks. When your phone
 
 ### BOUNCER
 
-![Bouncer](/images/bouncer.jpg){:style="width:50%"}
+![Bouncer]({{"/images/bouncer.jpg" | prepend: site.baseurl}}){:style="width:50%"}
 
 "What if someone else gets my phone?" - A question asked by many.
 
@@ -36,7 +36,7 @@ More &gt; Logout.
 ### COMPATIBILITY
 Key works for most iPhones, but take a glance at the list below to double check.
 
-![iOS 8 or Later](/images/iPhoneDownload.png){:style="width: 50%"}
+![iOS 8 or Later]({{"/images/iPhoneDownload.png" | prepend: site.baseurl}}){:style="width: 50%"}
 
 *iOS 8 or Later*
 

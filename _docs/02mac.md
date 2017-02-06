@@ -20,7 +20,7 @@ The other day I was sitting at a metal desk with my phone in my pocket. As far 
 
 I calibrated Key by going into Key's **Menu Bar &gt; More &gt; Calibrate**. Key calibrated over the course of 10 seconds and behaved normally again.
 
-![calibrating device](/images/calibrate.jpg)
+![calibrating device]({{"/images/calibrate.jpg" | prepend: site.baseurl}})
 
 We will continue working to make sure these things don't need as much tinkering and just work.
 
@@ -33,7 +33,7 @@ When updates come around, Key will ask you if you'd like to update. We recommend
 
 ### Compatibility
 
-![OS X 10.10 (Yosemite) or newer](/images/macDownload.png){:style="width: 50%"}
+![OS X 10.10 (Yosemite) or newer]({{"/images/macDownload.png" | prepend: site.baseurl}}){:style="width: 50%"}
 
 *OS X 10.10 (Yosemite) or newer*
 

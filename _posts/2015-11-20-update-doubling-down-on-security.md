@@ -21,7 +21,7 @@ We are calling it “Bouncer”. If you have ever unlocked your iPhone before, y
 When you turn on Bouncer, Key will check your fingerprint or lock screen pin to unlock your Mac. This virtually guarantees that if someone else picks up your phone, they can't log in as you.
 Bouncer will always let you out and lock up, but to get back in, you’re gonna need to show some ID!
 
-Enabling it is as simple as going through the “More” menu, and we made up [some docs](http://www.rack5.co/docs/key-for-iphone/) to help you if you need it.
+Enabling it is as simple as going through the “More” menu, and we made up [some docs]({{"/docs/iphone/" | prepend: site.baseurl}}) to help you if you need it.
 
 ### Verified Device
 Not to scare you, but there are some people out there that like to hack other individuals. There is one kind of attack called a “Man-in-the-Middle Attack”. 
@@ -44,6 +44,6 @@ If you aren’t on El Capitan yet, you have nothing to worry about! Just run the
 *&#42;We haven't quite tested that... but it's probably close.*
 
 ### Download Key Today!
-If you aren’t a Key user yet, go [download Key](http://www.keyauth.com/download/) to get started! We've been told its the easiest security software ever used! 
+If you aren’t a Key user yet, go [download Key]({{"/download/" | prepend: site.baseurl}}) to get started! We've been told its the easiest security software ever used! 
 
 If you have any questions or would like to chat, send an email over to hello@rack5.co! We're quite friendly!
