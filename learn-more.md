@@ -3,7 +3,7 @@ layout: default
 title: Learn More
 permalink: /learn-more/
 ---
-# [<b>&larr;Go</b>back]({{"/index.html" | prepend: site.baseurl}})
+# [<b>&larr;Go</b>back]({{"/" | prepend: site.baseurl}})
 
 #### Key is Fast
 Hold onto your iPhone! When you and your iPhone walk away from your Mac, Key locks your screen. When you come back, Key unlocks your screen. It literally couldn't be more quick and simple.
